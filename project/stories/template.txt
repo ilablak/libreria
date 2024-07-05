@@ -1,0 +1,28 @@
+Código:
+#  Código identificar la historia (alfanumérico).
+#  Deberá ir en el nombre del archivo.
+
+Nombre: 
+#  Texto corto para identificar la historia (Infinitivo+sustantivo).
+#  Deberá ir en el nombre del archivo.
+
+Roles:
+#  ¿Quién es el rol que tiene una necesidad o requerimiento específico?.
+#   Lista de nombres de los roles.
+
+Necesidad:
+#  ¿Cuál es la necesidad que el usuario intenta cumplir?
+#   Una o varias frase que defina la funcionalidad
+
+Razón:
+#  ¿Por qué es importante esta necesidad para el usuario o para el éxito del proyecto?
+#   Una o varias frases que definan 
+
+Aceptación:
+#  ¿Cuáles son los criterios de aceptación que indican cuándo la historia de usuario se considera completada?
+#  Una o varias frases que definen las restricciones que se deben respetar
+
+Relaciones:
+#  ¿Cómo se relaciona esta historia de usuario con otras funcionalidades o requerimientos del sistema?
+#  Lista de historias, con frases que definen el vínculo
+

@@ -1,0 +1,1 @@
+Aquí iran los archivos estáticos que se copiarán a la carpeta de publicación

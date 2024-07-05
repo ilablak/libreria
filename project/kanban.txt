@@ -1,0 +1,16 @@
+[Backlog]  # Historias con tiempo estimado.
+
+
+[Sprint]  # Historias a realizar en un spring con responsable asignado
+
+
+[En proceso]  # Historias en proceso
+
+
+[Revision]  # Historias pendientes de aprobación, con el tiempo dedicado
+
+
+[Finalizado] # Historias finalizadas
+
+
+
