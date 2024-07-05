@@ -1,0 +1,16 @@
+codigo: d003-auth
+
+nombre: save sesion
+
+roles: usuario
+
+nesesidad: se necesita almacenar la sesion correcta del usuario.
+
+razon: hacer bypass a login.
+
+aceptacion: mostrar por consola la sesion guardada.
+
+relacion: relacionado con c002.
+            
+
+

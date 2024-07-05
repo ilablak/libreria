@@ -1,0 +1,25 @@
+codigo: c001-login
+
+nombre: creacion del formulario login
+
+roles: publico
+
+necesidad: un formulario donde el usuario pueda ingresar sus datos y aceptar los terminos y condiciones
+
+razon: autenticar al usuario
+
+aceptacion: 
+
+al princhar al link de terminos y condiciones te redija a el archivo condiciones.html en una pesataña nueva
+
+un input de text para usuario required 
+
+un input de tipo password para la clave required 
+
+un checkbox para aceptar terminos y condiciones required 
+
+un link hacia la pagina de terminos y condiciones
+
+un boton tipo submit deshabilitado
+
+el formulario en metodo get, y un con action que envia hacia el archivo auth.html

@@ -1,0 +1,18 @@
+codigo: E003-libreria constuctor
+
+nombre: constructor
+
+roles:usuario registrado
+
+necesidad: crear los contenedores para los componentes.
+
+razon: estructurar el main.
+
+aceptacion: -crear contenedores flex segun demanda
+            -crear 3 contenedores de cards dentro cada contenedor flex.
+
+relacion: E004            
+            
+             
+            
+

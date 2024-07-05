@@ -1,0 +1,15 @@
+codigo: E002-libreria filtros
+
+nombre: filtrado de json.
+
+roles:usuario registrado
+
+necesidad: necesitamos que el usuario pueda filtrar por categorias.
+ 
+razon: facilitar la busqueda de libros.
+
+aceptacion:  -generar 6 categorias mas una para todo
+             -al seleccionar un filtro (input radio) se mostrara por consola los elementos filtrados de esta categoria.
+             
+            
+

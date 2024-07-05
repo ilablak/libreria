@@ -1,0 +1,13 @@
+codigo: d001-auth
+
+nombre: recoleccion de datos para auth.html
+
+roles: publico
+
+nesesidad: recorger los datos del json con fetch, y recolectar los parametros de la url
+
+razon: los datos del login son nesesarios
+
+aceptacion:  sacar los datos de la url y del json como objetos por consola.
+
+

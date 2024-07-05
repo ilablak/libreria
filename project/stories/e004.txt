@@ -1,0 +1,27 @@
+codigo: E004-libreria componentes
+
+nombre: componentes
+
+roles: programador
+
+necesidad: desarollar los web components.
+
+razon: son necesarios para mostrar el catalogo.
+
+aceptacion: -se mostrara un web component anadido manualmente en el html.
+            -se mostrara array de la cesta por consola.
+            
+
+caracteristicas: -se vera una imagen de portada 
+                -al hacer hover un animacion mostrara todas las infos y un enlace que te
+                 rederige a la pagina de este libro,y el boton de anadido a la cesta. 
+                -usuario necesita una array vacio donde acumular los articulos.
+                -al hacer click en anadir el titulo de libro se anade al array .
+                
+
+
+relacion: e005       
+            
+             
+            
+

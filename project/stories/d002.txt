@@ -1,0 +1,14 @@
+codigo: d002-auth
+
+nombre: validacion y redireccion
+
+roles: publico
+
+nesesidad: se nececita verificar se existe los datos en el json y rederigir segun el resultado.
+
+razon: autenticar o rechazar la peticion de login.
+
+aceptacion:  se rederige a login si los datos no cumplen la condiciones.
+             se rederige a libreria si los datos si cumplen la condicion.
+
+

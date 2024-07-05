@@ -1,0 +1,52 @@
+codigo: a001
+
+nombre: creacion de archivos
+
+roles: programador
+
+nesesidad: creacion de los documentos basicos para el sitio,
+
+html:
+
+    index.html
+    login.html
+    condiciones.html
+    auth.html
+    store.html
+    basket.html
+
+css:
+
+    index.css
+    login.css
+    condiciones.css
+    store.css  
+    basket.css
+
+json:
+
+    users.json
+    libreria.json
+
+js:
+
+    login.js
+    auth.js
+    store.js
+    basket.js
+
+    estructura:
+
+    las carpetas correspondientes estaran en la carpeta SRC:
+
+    html = aqui iran los archivos .html
+    styles = aqui iran los archivos .css
+    components = aqui iran los componentes cada uno en su respectiva carpeta
+    src = aqui iran los archivos .js principales de cada pagina
+
+
+razon: tener como plantillas aquellos archivos en los que vamos a escribir el codigo,
+
+aceptacion: la existencia de todos los archivos y carpetas contempladas
+
+

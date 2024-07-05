@@ -1,0 +1,18 @@
+codigo: E005-libreria 
+
+nombre: injeccion de componentes
+
+roles:usuario registrado
+
+necesidad: visualizar los componentes.
+
+razon:se deben mostrar los libros al usuario.
+
+aceptacion: -mostar los libros filtrados segun categoria.  
+                      
+
+relacionado: E003            
+            
+             
+            
+

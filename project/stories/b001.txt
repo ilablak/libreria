@@ -1,0 +1,12 @@
+codigo: b001-index
+
+nombre: creacion del html de la pagina index.html
+
+roles: usuario
+
+necesidad: una pagina de bienvenida con un acceso al login
+
+razon: dar visibilidad a la pagina 
+
+aceptacion: debe contener un titulo y un boton que acceda al login
+
