@@ -1,1 +1,0 @@
-Aquí iran los archivos de javascript principales de cada página
