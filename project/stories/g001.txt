@@ -1,0 +1,23 @@
+codigo: G001-Basket 
+
+nombre: Basket
+
+roles:usuario registrado
+
+necesidad: Tener una cesta donde el usuario acumele los libros que haya seleccionado.
+
+razon: Lugar donde se guarde los elementos que selecciona el usuario.
+
+aceptacion: 
+    - debe mostrar un titulo de libreria
+    - debe agradecer el pedido al usuario
+    - debe mostrar el listado de libros seleccionados - *Local Storage*
+    - debe tener un boton de imprimir 
+
+                      
+
+          
+            
+             
+            
+

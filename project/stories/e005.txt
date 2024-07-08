@@ -8,7 +8,9 @@ necesidad: visualizar los componentes.
 
 razon:se deben mostrar los libros al usuario.
 
-aceptacion: -mostar los libros filtrados segun categoria.  
+aceptacion: -mostar los libros filtrados segun categoria.
+            -almacenar en Local Storage los libros añadidos
+            -log-out.
                       
 
 relacionado: E003            

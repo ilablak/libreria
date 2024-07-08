@@ -1,0 +1,10 @@
+codigo: G003-Basket
+
+nombre: Testing
+
+roles: programador
+
+necesidad: comprobacion de la funcionalidad
+
+razon: Garantizar el funcionamiento de la aplicacion.
+

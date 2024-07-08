@@ -1,0 +1,12 @@
+codigo: I001-Refactor
+
+nombre: Refactorizar
+
+roles: programador
+
+necesidad: Optimizar el producto
+
+aceptacion: -Las funciones comunes deben de ser modulos
+
+
+razon: Dara garantia de producto termiando

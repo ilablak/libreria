@@ -1,0 +1,17 @@
+codigo: F001- libreria Print 
+
+nombre: Libros para imprimir
+
+roles: Usuario registrado
+
+necesidad: Archivos en .pdf para finalizar el proceso de compra impresa.
+
+razon:se deben mostrar los archivos en *.pdf*.
+
+aceptacion: -POder desacargar e imprimir el libro.
+            -Tener un @print diseñado para impresion.
+                      
+                  
+             
+            
+

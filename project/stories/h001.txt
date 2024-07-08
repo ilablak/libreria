@@ -1,0 +1,15 @@
+codigo: H001-Styles
+
+nombre: CSS Styling
+
+roles: programador
+
+necesidad: Definir los estilos del sitio
+
+aceptacion: -Hacer un estilo uniforme
+            -adaptable
+            -Diseño del media print
+            -diseño de los componentes
+            -generar variables css para exportar e importar por paginas
+
+razon: Estilizar y generar responsive para diferentes dispositivos

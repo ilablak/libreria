@@ -1,5 +1,27 @@
 [Backlog]  # Historias con tiempo estimado.
 
+codigo: a001 / creacion de archivos / time 30 min
+codigo: b001-index / creacion del html de la pagina index.html / time 30min
+codigo: c001-login / creacion del formulario login / time  30min
+codigo: c002-login / bypass login / time 2hrs
+codigo: C003-login / Testing /  time 2hrs
+codigo: d001-auth / recoleccion de datos para auth.html /  time 2hrs
+codigo: d002-auth / validacion y redireccion / time 2hrs
+codigo: d003-auth / save sesion / time 2hrs
+codigo: D004-auth / Testing / time 2hrs
+codigo: E001-libreria / libreria store / time 1hrs
+codigo: E002-libreria filtros / filtrado de json / time 3hrs 
+codigo: E003-libreria constuctor /  constructor / time 4hrs
+codigo: E004-libreria componentes / componentes / time 5hrs
+codigo: E005-libreria /  injeccion de componentes / time 2hrs
+codigo: E006-Store / Testing / time 4 hrs
+codigo: F001- libreria Print  / Libros para imprimir / 40min
+codigo: G001-Basket /  Basket / time 3hrs
+codigo: G002 - Basket - Print / Basket / time 30min
+codigo: G003-Basket / Testing / time 3hrs
+codigo: H001-Styles / CSS Styling / time 8hrs
+codigo: I001-Refactor /  Refactorizar / 7hrs
+
 
 [Sprint]  # Historias a realizar en un spring con responsable asignado
 

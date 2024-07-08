@@ -1,0 +1,20 @@
+codigo: G002 - Basket - Print
+
+nombre: Basket
+
+roles:usuario registrado
+
+necesidad: Tener un boton para imprimir, los libros seleccionados.
+
+razon: Facilitar la ipmpresión de los libros al Usuario.
+
+aceptacion: 
+    - se deben poder imprimir los libros individualmente.
+
+                      
+
+          
+            
+             
+            
+
