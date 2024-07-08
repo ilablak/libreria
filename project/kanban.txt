@@ -29,13 +29,13 @@ codigo: I001-Refactor /  Refactorizar / 7hrs
 
 [En proceso]  # Historias en proceso
 
-codigo: a001  / Mikel /
-codigo: b001-index / Mikel /
-codigo: c001-login / Imad /
-
 
 [Revision]  # Historias pendientes de aprobación, con el tiempo dedicado
 
+codigo: a001  / Mikel /
+codigo: b001-index / Mikel /
+codigo: c001-login / Imad /
+codigo: A002 - JSON / Aitor /
 
 [Finalizado] # Historias finalizadas
 
