@@ -1,6 +1,7 @@
 [Backlog]  # Historias con tiempo estimado.
 
 codigo: a001 / creacion de archivos / time 30 min
+codigo: A002 - JSON / creacion de archivos / 30 min
 codigo: b001-index / creacion del html de la pagina index.html / time 30min
 codigo: c001-login / creacion del formulario login / time  30min
 codigo: c002-login / bypass login / time 2hrs
@@ -27,6 +28,10 @@ codigo: I001-Refactor /  Refactorizar / 7hrs
 
 
 [En proceso]  # Historias en proceso
+
+codigo: a001  / Mikel /
+codigo: b001-index / Mikel /
+codigo: c001-login / Imad /
 
 
 [Revision]  # Historias pendientes de aprobación, con el tiempo dedicado

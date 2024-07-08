@@ -1,0 +1,14 @@
+codigo: A002 - JSON
+
+nombre: creacion de archivos JSON
+
+roles: programador
+
+nesesidad: creacion de los documentos basicos para el sitio,
+
+
+json:
+
+    users.json
+    libreria.json
+
