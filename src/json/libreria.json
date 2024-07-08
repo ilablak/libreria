@@ -1,0 +1,194 @@
+[
+    {
+        "title": "El espejismo",
+        "publish_date": "2024-02-14",
+        "author": "Camilla Läckberg",
+        "resume": "Una novela que mezcla la atmósfera navideña de Estocolmo con un misterio siniestro.",
+        "tags": ["novela negra", "misterio"],
+        "image": "https://prodimage.images-bn.com/pimages/9786073912471_p0_v1_s600x595.jpg"
+    },
+    {
+        "title": "Bajo tierra seca",
+        "publish_date": "2024-03-22",
+        "author": "César Pérez Gellida",
+        "resume": "Un thriller ambientado en la España rural.",
+        "tags": ["novela negra", "thriller"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "La inquilina silenciosa",
+        "publish_date": "2024-01-11",
+        "author": "Clémence Michallon",
+        "resume": "Una historia de misterio y suspense que te mantendrá al borde de tu asiento.",
+        "tags": ["novela negra", "suspense"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "La mujer fugitiva",
+        "publish_date": "2024-04-05",
+        "author": "Alicia Giménez Bartlett",
+        "resume": "Un nuevo caso de la inspectora Petra Delicado.",
+        "tags": ["novela negra", "policiaco"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "Las hijas de la criada",
+        "publish_date": "2024-05-14",
+        "author": "Sonsoles Ónega",
+        "resume": "Una historia conmovedora de supervivencia y lucha durante la Guerra Civil Española.",
+        "tags": ["novela histórica", "Guerra Civil Española"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "La sangre del padre",
+        "publish_date": "2024-06-18",
+        "author": "Alfonso Goizueta",
+        "resume": "Una narrativa profunda sobre la influencia de la herencia y el legado familiar.",
+        "tags": ["novela histórica", "drama familiar"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "Alas de hierro (Empíreo 2)",
+        "publish_date": "2024-02-10",
+        "author": "Rebecca Yarros",
+        "resume": "La esperada continuación de la saga Empíreo.",
+        "tags": ["novela juvenil", "fantasía"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "Alas de sangre (Empíreo 1)",
+        "publish_date": "2024-01-15",
+        "author": "Rebecca Yarros",
+        "resume": "El comienzo de una épica aventura en el mundo de Empíreo.",
+        "tags": ["novela juvenil", "fantasía"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "Twisted Lies",
+        "publish_date": "2024-03-29",
+        "author": "Ana Huang",
+        "resume": "El cuarto libro de la serie Twisted, lleno de romance y drama.",
+        "tags": ["novela juvenil", "romance"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "Una corte de niebla y furia",
+        "publish_date": "2024-04-12",
+        "author": "Sarah J. Maas",
+        "resume": "Una emocionante entrega de la serie de fantasía.",
+        "tags": ["novela juvenil", "fantasía"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "Recupera tu mente, reconquista tu vida",
+        "publish_date": "2024-05-05",
+        "author": "Marian Rojas Estapé",
+        "resume": "Una guía para recuperar el control y la salud mental.",
+        "tags": ["autoayuda", "salud mental"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "Hábitos atómicos",
+        "publish_date": "2024-03-19",
+        "author": "James Clear",
+        "resume": "Un libro sobre cómo formar hábitos positivos.",
+        "tags": ["autoayuda", "hábitos"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "Tres enigmas para la Organización",
+        "publish_date": "2024-01-20",
+        "author": "Eduardo Mendoza",
+        "resume": "Una novela detectivesca con humor y misterio.",
+        "tags": ["novela literaria", "misterio"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "La ciudad y sus muros inciertos",
+        "publish_date": "2024-04-28",
+        "author": "Haruki Murakami",
+        "resume": "Una obra onírica sobre la búsqueda y el amor perdido.",
+        "tags": ["novela literaria", "drama"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "Ansia",
+        "publish_date": "2024-06-06",
+        "author": "Henar Álvarez",
+        "resume": "Una exploración de la lujuria y la insatisfacción amorosa.",
+        "tags": ["novela erótica", "romance"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "Las dos vidas de Mina Índigo",
+        "publish_date": "2024-05-02",
+        "author": "Alaitz Leceaga",
+        "resume": "Una novela sobre el poder de la transformación y el autodescubrimiento.",
+        "tags": ["novela contemporánea", "drama"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "Aún siguen aquí",
+        "publish_date": "2024-02-27",
+        "author": "Lisa Jewell",
+        "resume": "Una historia de misterio y redención.",
+        "tags": ["novela contemporánea", "misterio"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "Blackwater 1: La riada",
+        "publish_date": "2024-03-13",
+        "author": "Michael McDowell",
+        "resume": "La primera entrega de una saga familiar con toques sobrenaturales.",
+        "tags": ["novela de terror", "suspense"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "El hijo olvidado",
+        "publish_date": "2024-06-22",
+        "author": "Mikel Santiago",
+        "resume": "Un thriller sobre conspiraciones y secretos oscuros.",
+        "tags": ["novela de terror", "thriller"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "Amanecer",
+        "publish_date": "2024-01-05",
+        "author": "Defreds",
+        "resume": "Una colección de poemas sobre el amor y la esperanza.",
+        "tags": ["poesía", "romántico"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "Lo que pasa es que te quiero",
+        "publish_date": "2024-02-11",
+        "author": "Gloria Fuertes",
+        "resume": "Poemas que exploran las profundidades del amor y la vida.",
+        "tags": ["poesía", "amor"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "Almudena",
+        "publish_date": "2024-03-07",
+        "author": "Luis García Montero",
+        "resume": "Una obra dedicada a la memoria y los recuerdos.",
+        "tags": ["poesía", "memoria"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "One Piece nº 05 (3 en 1)",
+        "publish_date": "2024-04-01",
+        "author": "Eiichiro Oda",
+        "resume": "Las aventuras del pirata Luffy en una edición especial.",
+        "tags": ["cómic y manga", "aventura"],
+        "image": "URL_de_la_imagen"
+    },
+    {
+        "title": "Dragon Ball Super nº 20",
+        "publish_date": "2024-03-17",
+        "author": "Akira Toriyama y Toyotarou",
+        "resume": "Continuación de las emocionantes batallas de Goku y sus amigos.",
+        "tags": ["cómic y manga", "aventura"],
+        "image": "URL_de_la_imagen"
+    }
+]
