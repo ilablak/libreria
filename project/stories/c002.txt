@@ -6,7 +6,7 @@ roles: publico
 
 necesidad: comprobacion de sesion guardada
 
-razon: evitar volver a hacer login cada que que se entre o recargue la pagina
+razon: evitar volver a hacer login cada vez que que se entre o recargue la pagina
 
 aceptacion: si las credenciales guardadas son validas, redirigir a libreria,
 
