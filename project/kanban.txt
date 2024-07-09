@@ -23,13 +23,12 @@ codigo: I001-Refactor /  Refactorizar / 7hrs
 
 codigo: C002-Login / bypass Login / time 2hrs / TXEPE Y MIKEL
 
-codigo: D001-Auth / recoleccion de datos para Auth.html /  time 2hrs / MIKEL
+codigo: D001-Auth / recoleccion de datos para Auth.html /  time 2hrs / AITOR
 
 codigo: E001-Libreria / Libreria store / time 1hrs / ALBERTO Y JUANES
 
 codigo: E002-Libreria filtros / filtrado de json / time 3hrs / ALBERTO
 
-codigo: G001-Basket / basket / time 2h / AITOR
 
 
 
@@ -43,6 +42,8 @@ codigo: G001-Basket / basket / time 2h / AITOR
         codigo: B001-index / Mikel /
 
         codigo: C001-Login / Imad /
+
+        codigo: G001-Basket / time 2h / AITOR
 
 
 
