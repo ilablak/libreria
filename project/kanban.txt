@@ -25,9 +25,11 @@ codigo: C002-Login / bypass Login / time 2hrs / TXEPE
 
 codigo: D001-Auth / recoleccion de datos para Auth.html /  time 2hrs / MIKEL
 
-codigo: E001-Libreria / Libreria store / time 1hrs / Aitor
+codigo: E001-Libreria / Libreria store / time 1hrs / ALBERTO Y JUANES
 
 codigo: E002-Libreria filtros / filtrado de json / time 3hrs / ALBERTO
+
+codigo: G001-Basket / basket / time 2h / AITOR
 
 
 
