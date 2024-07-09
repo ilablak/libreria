@@ -21,7 +21,7 @@ codigo: I001-Refactor /  Refactorizar / 7hrs
 
 [En proceso]  # Historias en proceso
 
-codigo: C002-Login / bypass Login / time 2hrs / TXEPE
+codigo: C002-Login / bypass Login / time 2hrs / TXEPE Y MIKEL
 
 codigo: D001-Auth / recoleccion de datos para Auth.html /  time 2hrs / MIKEL
 
