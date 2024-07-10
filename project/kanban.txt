@@ -1,13 +1,9 @@
 [Backlog]  # Historias con tiempo estimado.
 
+codigo: C002-Login / bypass Login / time 2hrs 
 codigo: C003-Login / Testing /  time 2hrs
-codigo: D002-Auth / validacion y redireccion / time 2hrs
 codigo: D003-Auth / save sesion / time 2hrs
 codigo: D004-Auth / Testing / time 2hrs
-codigo: E003-Libreria constuctor /  constructor / time 4hrs
-codigo: E004-Libreria componentes / componentes / time 5hrs
-codigo: E005-Libreria /  injeccion de componentes / time 2hrs
-codigo: E006-Store / Testing / time 4 hrs
 codigo: F001-Libreria Print  / Libros para imprimir / 40min
 codigo: G001-Basket /  Basket / time 3hrs
 codigo: G002-Basket - Print / Basket / time 30min
@@ -16,16 +12,28 @@ codigo: H001-Styles / CSS Styling / time 8hrs
 codigo: I001-Refactor /  Refactorizar / 7hrs
 
 
+
 [Sprint]  # Historias a realizar en un spring con responsable asignado
 
 
 [En proceso]  # Historias en proceso
 
-codigo: C002-Login / bypass Login / time 2hrs / TXEPE Y MIKEL
 
-codigo: E001-Libreria / Libreria store / time 1hrs / ALBERTO Y JUANES
+código: B001 - Index / TXEPE y MIKEL
 
-codigo: E002-Libreria filtros / filtrado de json / time 3hrs / ALBERTO
+código: E001-Libreria / ALBERTO y JUANES
+
+código: E002-Libreria / ALBERTO y JUANES
+
+código: E003-Libreria / ALBERTO y JUANES
+
+código: E004-Libreria / ALBERTO y JUANES
+
+código: E005-Libreria / ALBERTO y JUANES
+
+código: E006-Libreria / ALBERTO y JUANES
+
+
 
 
 
@@ -33,19 +41,17 @@ codigo: E002-Libreria filtros / filtrado de json / time 3hrs / ALBERTO
 
 [Revision]  # Historias pendientes de aprobación, con el tiempo dedicado
 
-        codigo: A001  / Mikel /
+        codigo: A001 - Creación de archivos  / Mikel 
 
-        codigo: A002 - JSON / Aitor /
+        codigo: A002 - Creación de archivos / Aitor 
 
-        codigo: B001-index / Mikel /
-
-        codigo: C001-Login / Imad /
+        codigo: C001-Login / Imad 
 
         código: D001 - auth / AITOR
 
         código: D002 - auth / AITOR
 
-        codigo: G001-Basket / time 2h / AITOR
+        codigo: G001-Basket / AITOR
 
 
         
