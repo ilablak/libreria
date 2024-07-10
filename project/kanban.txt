@@ -4,7 +4,6 @@ codigo: C002-Login / bypass Login / time 2hrs
 codigo: C003-Login / Testing /  time 2hrs
 codigo: D004-Auth / Testing / time 2hrs
 codigo: F001-Libreria Print  / Libros para imprimir / 40min
-codigo: G001-Basket /  Basket / time 3hrs
 codigo: G002-Basket - Print / Basket / time 30min
 codigo: G003-Basket / Testing / time 3hrs
 codigo: H001-Styles / CSS Styling / time 8hrs
