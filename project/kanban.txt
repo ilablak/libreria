@@ -2,7 +2,6 @@
 
 codigo: C002-Login / bypass Login / time 2hrs 
 codigo: C003-Login / Testing /  time 2hrs
-codigo: D003-Auth / save sesion / time 2hrs
 codigo: D004-Auth / Testing / time 2hrs
 codigo: F001-Libreria Print  / Libros para imprimir / 40min
 codigo: G001-Basket /  Basket / time 3hrs
@@ -50,6 +49,8 @@ código: E006-Libreria / ALBERTO y JUANES
         código: D001 - auth / AITOR
 
         código: D002 - auth / AITOR
+
+        código: D003 - auth / AITOR
 
         codigo: G001-Basket / AITOR
 

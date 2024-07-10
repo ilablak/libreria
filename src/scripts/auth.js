@@ -15,6 +15,11 @@ setTimeout(() => {
             const user = users.find(user => user.username === username && user.password === password);
             if (user) {
                 alert ('Credenciales correctas')
+
+                //Guardar credenciales en localStorage
+                localStorage.setItem('username', username);
+                localStorage.setItem('password', password);
+
                 // Datos correctos, redirigir a la página del blog
                 window.location.href = '../html/store.html';
             } else {
@@ -33,4 +38,17 @@ setTimeout(() => {
 const params = new URLSearchParams(window.location.search);
 if (params.get('error')) {
     document.getElementById('errorMessage').textContent = 'Nombre de usuario o contraseña incorrectos.';
+}
+
+
+//muestra en consola las credenciales guardadas
+const storedUsername = localStorage.getItem('username');
+const storedPassword = localStorage.getItem('password');
+
+if (storedUsername && storedPassword) {
+    console.log('Credenciales guardadas en Local Storage:');
+    console.log('Username:', storedUsername);
+    console.log('Password:', storedPassword);
+} else {
+    console.log('No hay credenciales guardadas en Local Storage.');
 }
