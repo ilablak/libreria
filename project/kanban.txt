@@ -1,6 +1,6 @@
 [Backlog]  # Historias con tiempo estimado.
 
-codigo: C002-Login / bypass Login / time 2hrs 
+
 codigo: C003-Login / Testing /  time 2hrs
 codigo: D004-Auth / Testing / time 2hrs
 codigo: F001-Libreria Print  / Libros para imprimir / 40min
@@ -21,16 +21,17 @@ código: B001 - Index / TXEPE y MIKEL
 
 código: E001-Libreria / ALBERTO y JUANES
 
-código: E002-Libreria / ALBERTO y JUANES
+código: E002-Libreria / ALBERTO 
 
-código: E003-Libreria / ALBERTO y JUANES
+código: E003-Libreria / ALBERTO 
 
-código: E004-Libreria / ALBERTO y JUANES
+código: E004-Libreria / ALBERTO 
 
-código: E005-Libreria / ALBERTO y JUANES
+código: E005-Libreria / ALBERTO 
 
-código: E006-Libreria / ALBERTO y JUANES
+código: E006-Libreria / ALBERTO 
 
+codigo: C002-Login / bypass Login / time 2hrs IMAD
 
 
 
