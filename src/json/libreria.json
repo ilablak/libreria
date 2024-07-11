@@ -1,194 +1,1302 @@
 [
     {
-        "title": "El espejismo",
-        "publish_date": "2024-02-14",
-        "author": "Camilla Läckberg",
-        "resume": "Una novela que mezcla la atmósfera navideña de Estocolmo con un misterio siniestro.",
-        "tags": ["novela negra", "misterio"],
-        "image": "https://prodimage.images-bn.com/pimages/9786073912471_p0_v1_s600x595.jpg"
+        "image": "https://m.media-amazon.com/images/I/71m+FAPBVTL._SL1500_.jpg",
+        "title": "La suerte de los idiotas",
+        "publish_date": "YYYY-MM-DD",
+
+
+
+        "author": "Roberto Martínez Guzmán",
+        "resume": "Lucas Acevedo, un policía lastrado por una misión previa en Madrid, regresa a Galicia para encontrar algo de paz. Sin embargo, su vida se complica cuando conoce a una mujer y empiezan a suceder muertes en su entorno. Pronto se da cuenta de que él mismo es un blanco, lo que lo lleva a enfrentarse a una peligrosa batalla.",
+        "tags": [
+            "Thriller",
+            "Novela negra",
+            "Intriga"
+        ]
     },
     {
-        "title": "Bajo tierra seca",
-        "publish_date": "2024-03-22",
-        "author": "César Pérez Gellida",
-        "resume": "Un thriller ambientado en la España rural.",
-        "tags": ["novela negra", "thriller"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/61dS3tHSVVL._SL1200_.jpg",
+        "title": "Amor y otros desastres",
+        "publish_date": "2024-06-10",
+        "author": "Sophie Kinsella",
+        "resume": "Sasha, agotada por su absorbente trabajo y una vida sin vida sexual, decide tomar unas vacaciones en el hotel costero de su infancia. Allí se encuentra con Finn, un huésped estresado con el que al principio mantiene distancia, pero pronto descubre que tienen más en común de lo que pensaban cuando empiezan a aparecer misteriosos mensajes en la arena.",
+        "tags": [
+            "Comedia romántica",
+            "Vacaciones",
+            "Relaciones personales"
+        ]
     },
     {
-        "title": "La inquilina silenciosa",
-        "publish_date": "2024-01-11",
-        "author": "Clémence Michallon",
-        "resume": "Una historia de misterio y suspense que te mantendrá al borde de tu asiento.",
-        "tags": ["novela negra", "suspense"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/91t2eX1dHUL._SL1500_.jpg",
+        "title": "La Cala: Un intenso thriller que te dejará sin aliento",
+        "publish_date": "YYYY-MM-DD",
+
+
+
+        "author": "Gregg Dunnett",
+        "resume": "Christine Harvey, tras la pérdida de su esposo, compra una casa en un acantilado para empezar de nuevo con sus hijos. Sin embargo, descubre que su nuevo hogar tiene un pasado oscuro relacionado con la desaparición de una niña y su sospechoso vecino. En su obsesiva búsqueda de respuestas, Christine desencadena una amenaza aún mayor para su familia.",
+        "tags": [
+            "Thriller",
+            "Misterio",
+            "Suspense psicológico"
+        ]
     },
     {
-        "title": "La mujer fugitiva",
-        "publish_date": "2024-04-05",
-        "author": "Alicia Giménez Bartlett",
-        "resume": "Un nuevo caso de la inspectora Petra Delicado.",
-        "tags": ["novela negra", "policiaco"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/81XJmxf6hRL._SL1500_.jpg",
+        "title": "Kau: El despertar",
+        "publish_date": "2024-02-18",
+        "author": "Borja Pérez Loren",
+        "resume": "En un futuro cercano, el mundo tal y como lo conocemos está al borde del colapso bajo el yugo de un gobierno global que ansía el control total sobre la humanidad. Es el año 2029, y la vida de Kau da un giro inesperado tras un devastador ataque en su ciudad por misteriosas aeronaves, involucrándole en un conflicto al que no saben a qué se enfrentan. En su viaje, se verá inmerso en una épica batalla entre el bien y el mal que lo llevará a un nuevo mundo donde moran los antiguos dioses, donde lo espiritual se mezcla con lo físico, más allá de los muros de hielo que guardan secretos capaces de cambiar el destino de la humanidad. ¿Podrá Kau descubrir la verdad y salvar a su mundo del control total? ¿Podrá enfrentarse a fuerzas oscuras y encontrar su lugar en esta guerra épica? ¡Sumérgete en esta fascinante saga de ciencia ficción y fantasía, donde la amistad, el amor y la superación se entrelazan en una narrativa que no podrás dejar de leer! ¡Prepárate para una aventura que te sorprenderá en cada capítulo!",
+        "tags": [
+            "ciencia ficción",
+            "futuro",
+            "batalla épica",
+            "dioses antiguos"
+        ]
     },
     {
-        "title": "Las hijas de la criada",
-        "publish_date": "2024-05-14",
-        "author": "Sonsoles Ónega",
-        "resume": "Una historia conmovedora de supervivencia y lucha durante la Guerra Civil Española.",
-        "tags": ["novela histórica", "Guerra Civil Española"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/81G7btXjyOL._SL1500_.jpg",
+        "title": "EL EGO DE LOS TONTOS (Lucas Acevedo 3)",
+        "publish_date": "YYYY-MM-DD",
+
+
+
+        "author": "Roberto Martínez Guzmán",
+        "resume": "Cuando cuatro personas inocentes son tiroteadas en una noche en Vigo, el expolicía Lucas Acevedo sospecha que él era el objetivo. Comienza una búsqueda frenética del culpable, descubriendo que la verdad es mucho más compleja de lo que imaginaba.",
+        "tags": [
+            "Thriller",
+            "Asesinos en serie",
+            "Misterio"
+        ]
     },
     {
-        "title": "La sangre del padre",
-        "publish_date": "2024-06-18",
-        "author": "Alfonso Goizueta",
-        "resume": "Una narrativa profunda sobre la influencia de la herencia y el legado familiar.",
-        "tags": ["novela histórica", "drama familiar"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/6170Iokw8nL._SL1200_.jpg",
+        "title": "La habitación de invitados",
+        "publish_date": "2023-08-28",
+        "author": "Dreda Say Mitchell",
+        "resume": "Lisa encuentra una habitación ideal en una casa magnífica, compartida con Martha y Jack, una pareja amable. Pero su sueño se ve amenazado cuando descubre una nota de suicidio oculta en la habitación. Martha y Jack niegan todo, sembrando dudas en Lisa, quien se obsesiona con descubrir la verdad mientras sufre sucesos extraños que indican que alguien hará cualquier cosa para impedírselo.",
+        "tags": [
+            "Thriller psicológico",
+            "Misterio",
+            "Suspense"
+        ]
     },
     {
-        "title": "Alas de hierro (Empíreo 2)",
-        "publish_date": "2024-02-10",
-        "author": "Rebecca Yarros",
-        "resume": "La esperada continuación de la saga Empíreo.",
-        "tags": ["novela juvenil", "fantasía"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/81Oi-qMhASL._SL1500_.jpg",
+        "title": "La verdad sobre el caso Harry Quebert",
+        "publish_date": "2016-02-04",
+        "author": "Joël Dicker",
+        "resume": "Marcus Goldman, un joven escritor, investiga el asesinato de una joven de quince años ocurrido en 1975 en Aurora, New Hampshire. Su mentor, Harry Quebert, es acusado del crimen cuando el cuerpo de la joven es encontrado enterrado en su jardín. Marcus intenta demostrar la inocencia de Harry mientras desentraña una trama de secretos que se extienden a lo largo de tres décadas.",
+        "tags": [
+            "Thriller",
+            "Misterio",
+            "Suspense"
+        ]
     },
     {
-        "title": "Alas de sangre (Empíreo 1)",
-        "publish_date": "2024-01-15",
-        "author": "Rebecca Yarros",
-        "resume": "El comienzo de una épica aventura en el mundo de Empíreo.",
-        "tags": ["novela juvenil", "fantasía"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/71xbaSasq7L._SL1500_.jpg",
+        "title": "Un cuento perfecto",
+        "publish_date": "2021-02-18",
+        "author": "Elísabet Benavent",
+        "resume": "¿Qué sucede cuando descubres que el final de tu cuento no es como soñabas? Elísabet Benavent explora el significado del éxito en la vida a través de una historia de amor entre el éxito y la duda. Con ironía y humor, reflexiona sobre las imposiciones sociales, la presión del grupo y la autoexigencia, demostrando que el éxito no siempre es sinónimo de felicidad.",
+        "tags": [
+            "Ficción contemporánea",
+            "Romance",
+            "Reflexión",
+            "Humor"
+        ]
     },
     {
-        "title": "Twisted Lies",
-        "publish_date": "2024-03-29",
-        "author": "Ana Huang",
-        "resume": "El cuarto libro de la serie Twisted, lleno de romance y drama.",
-        "tags": ["novela juvenil", "romance"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/71YRAk7gylL._SL1500_.jpg",
+        "title": "Los tres Cabos Finisterre",
+        "publish_date": "2023-11-21",
+        "author": "Javier Chacón Sanchis",
+        "resume": "Izan, desde su cómoda vida en el País Vasco, se embarca en una búsqueda interior que lo lleva lejos de su hogar y familia. En un peregrinaje por antiguos territorios celtas, confronta sus demonios personales y se sumerge en las profundidades de su ser, descubriendo sus debilidades y encontrando su verdadera identidad.",
+        "tags": [
+            "Literatura mundial",
+            "Ficción contemporánea",
+            "Búsqueda personal"
+        ]
     },
     {
-        "title": "Una corte de niebla y furia",
-        "publish_date": "2024-04-12",
-        "author": "Sarah J. Maas",
-        "resume": "Una emocionante entrega de la serie de fantasía.",
-        "tags": ["novela juvenil", "fantasía"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/811PTyrckTL._SL1500_.jpg",
+        "title": "Un cuento perfecto",
+        "publish_date": "2021-02-18",
+        "author": "Elísabet Benavent",
+        "resume": "Elísabet Benavent nos presenta 'Un cuento perfecto', una novela que explora el éxito, la presión social y la autoexigencia. A través de una historia de amor entre el éxito y la duda, la autora reflexiona con ironía y humor sobre cómo las imposiciones sociales pueden no ser sinónimo de felicidad.",
+        "tags": [
+            "Literatura contemporánea",
+            "Novela romántica",
+            "Reflexión sobre el éxito"
+        ]
     },
     {
-        "title": "Recupera tu mente, reconquista tu vida",
-        "publish_date": "2024-05-05",
-        "author": "Marian Rojas Estapé",
-        "resume": "Una guía para recuperar el control y la salud mental.",
-        "tags": ["autoayuda", "salud mental"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/71xbw+MgoEL._SL1500_.jpg",
+        "title": "Un saco de canicas",
+        "publish_date": "2003-05-30",
+        "author": "Joseph Joffo",
+        "resume": "Joseph Joffo relata la historia de dos niños judíos, Joseph y Maurice, que deben sobrevivir solos en la Francia ocupada por los nazis. Su padre los dispersa para protegerlos del destino cruel que les aguarda, sumergiéndolos en un universo desquiciado donde la barbarie, la amistad y el miedo dictan las reglas de supervivencia.",
+        "tags": [
+            "Historia real",
+            "Segunda Guerra Mundial",
+            "Supervivencia infantil"
+        ]
     },
     {
-        "title": "Hábitos atómicos",
-        "publish_date": "2024-03-19",
-        "author": "James Clear",
-        "resume": "Un libro sobre cómo formar hábitos positivos.",
-        "tags": ["autoayuda", "hábitos"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/71laCHNBsWL._SL1500_.jpg",
+        "title": "Historia de una maestra",
+        "publish_date": "2016-01-07",
+        "author": "Josefina Aldecoa",
+        "resume": "Gabriela, una joven que recoge su título de maestra en 1923, inicia un sueño que la lleva a enseñar en diversas escuelas rurales en España y Guinea Ecuatorial. La novela narra desde la memoria su vida durante los años veinte y el comienzo de la guerra civil española, mostrando el contexto de la República, la revolución de Octubre y la guerra, así como el papel crucial de la educación en tiempos de pobreza, ignorancia y opresión.",
+        "tags": [
+            "Memorias",
+            "España",
+            "Educación",
+            "Guerra Civil Española",
+            "Historia del siglo XX"
+        ]
     },
     {
-        "title": "Tres enigmas para la Organización",
-        "publish_date": "2024-01-20",
-        "author": "Eduardo Mendoza",
-        "resume": "Una novela detectivesca con humor y misterio.",
-        "tags": ["novela literaria", "misterio"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/81zhe-NSI5L._SL1500_.jpg",
+        "title": "Historia de una maestra",
+        "publish_date": "2016-01-07",
+        "author": "Josefina Aldecoa",
+        "resume": "Gabriela, una joven que recoge su título de maestra en 1923, inicia un sueño que la lleva a enseñar en diversas escuelas rurales en España y Guinea Ecuatorial. La novela narra desde la memoria su vida durante los años veinte y el comienzo de la guerra civil española, mostrando el contexto de la República, la revolución de Octubre y la guerra, así como el papel crucial de la educación en tiempos de pobreza, ignorancia y opresión.",
+        "tags": [
+            "Memorias",
+            "España",
+            "Educación",
+            "Guerra Civil Española",
+            "Historia del siglo XX"
+        ]
     },
     {
-        "title": "La ciudad y sus muros inciertos",
-        "publish_date": "2024-04-28",
-        "author": "Haruki Murakami",
-        "resume": "Una obra onírica sobre la búsqueda y el amor perdido.",
-        "tags": ["novela literaria", "drama"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/61cNW3TS7FL._SL1500_.jpg",
+        "title": "El cuco de cristal",
+        "publish_date": "2024-02-15",
+        "author": "Javier Castillo",
+        "resume": "Cora Merlo, médico residente en Nueva York, sufre un infarto y necesita un trasplante de corazón. Después de la operación, recibe una oferta para visitar Steelville, un pequeño pueblo, y conocer la vida de Charles, el donante de su corazón. En Steelville, Cora se adentra en un hogar lleno de secretos y un misterio de veinte años. Además, el día de su llegada, un bebé desaparece en circunstancias inexplicables en un parque público.",
+        "tags": [
+            "Thriller",
+            "Misterio",
+            "Suspense",
+            "Trasplante de corazón",
+            "Secretos familiares"
+        ]
     },
     {
-        "title": "Ansia",
-        "publish_date": "2024-06-06",
-        "author": "Henar Álvarez",
-        "resume": "Una exploración de la lujuria y la insatisfacción amorosa.",
-        "tags": ["novela erótica", "romance"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/71wi0V-4UKL._SL1500_.jpg",
+        "title": "El cuco de cristal",
+        "publish_date": "2024-02-15",
+        "author": "Javier Castillo",
+        "resume": "Cora Merlo, médico residente en Nueva York, sufre un infarto y necesita un trasplante de corazón. Después de la operación, recibe una oferta para visitar Steelville, un pequeño pueblo, y conocer la vida de Charles, el donante de su corazón. En Steelville, Cora se adentra en un hogar lleno de secretos y un misterio de veinte años. Además, el día de su llegada, un bebé desaparece en circunstancias inexplicables en un parque público.",
+        "tags": [
+            "Thriller",
+            "Misterio",
+            "Suspense",
+            "Trasplante de corazón",
+            "Secretos familiares"
+        ]
     },
     {
-        "title": "Las dos vidas de Mina Índigo",
-        "publish_date": "2024-05-02",
-        "author": "Alaitz Leceaga",
-        "resume": "Una novela sobre el poder de la transformación y el autodescubrimiento.",
-        "tags": ["novela contemporánea", "drama"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/61cNW3TS7FL._SL1500_.jpg",
+        "title": "No es lo que parece: Un caso del inspector Salazar",
+        "publish_date": "No disponible",
+        "author": "M.J. Fernández",
+        "resume": "La muerte sorprende a Juanjo Belmonte en medio de sus votantes y la prensa. ¿Fue una fatalidad o alguien intervino? Aunque inicialmente parece una muerte natural, los eventos toman un giro inesperado cuando el inspector Salazar y su nueva compañera comienzan a investigar. Descubren que el caso no es lo que parece: Belmonte fue asesinado y detrás de este homicidio se esconde una red complicada de delitos que los detectives deben desentrañar. Enfrentados a un asesino dispuesto a todo para protegerse, incluso los propios policías estarán en peligro mientras buscan la verdad.",
+        "tags": [
+            "Novela negra",
+            "Misterio",
+            "Intriga",
+            "Asesinato",
+            "Investigación policial"
+        ]
     },
     {
-        "title": "Aún siguen aquí",
-        "publish_date": "2024-02-27",
+        "image": "https://m.media-amazon.com/images/I/71E6F6FOdxL._SL1500_.jpg",
+        "title": "El secreto de las olas",
+        "author": "Gregg Dunnett",
+        "publish_date": "No especificado",
+        "resume": "La vida de Natalie, una joven psicóloga, se desmorona cuando su marido desaparece haciendo surf. Todo parece indicar que no ha sido más que un trágico accidente hasta que recibe una llamada telefónica que le hace sospechar lo contrario. A partir de ese momento, Natalie se embarca en una búsqueda de la verdad. Pero ¿va a revelar un secreto que acabará costándole la vida?\n\nTras la trágica muerte de su padre, Jesse, un adolescente de trece años, se ve obligado a abandonar Australia y a empezar de nuevo en Gales. Allí conoce a John, un joven carismático con quien entabla una estrecha amistad, hasta que un accidente cambia sus vidas para siempre.\n\nDos historias aparentemente desconectadas. Cómo se entrelazan te mantendrá leyendo hasta altas horas de la noche. Y su inesperado final te resultará asombroso.",
+        "tags": [
+            "Thriller psicológico",
+            "Misterio",
+            "Secretos familiares",
+            "Suspense"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81JhAEO5InL._SL1500_.jpg",
+        "title": "Espía de Dios: Por el autor de Reina Roja",
+        "publish_date": "No disponible",
+        "author": "Juan Gómez-Jurado",
+        "resume": "\"Espía de Dios\", el bestseller internacional de Juan Gómez-Jurado que ha arrasado en 42 países y ha conquistado a más de un millón y medio de lectores. Con esta app disfrutarás de la novela completa, las portadas internacionales, el booktrailer, un mapa y otros contenidos exclusivos a un precio increíble. Además, con el lector Atomic Reader podrás marcar la página, aumentar de tamaño el texto y disfrutar de una experiencia de lectura incomparable.\n\n\"Gómez-Jurado es el Ken Follet español\" LA VANGUARDIA\n\"Una novela brillantemente escrita que marca un nuevo estándar de oro para los thrillers\" USA TODAY\n\"Un thriller de primera clase\" BOOKLIST\n\"No se la pierda\" EL PAIS\n\nSinópsis:\nRoma, 2 de abril de 2005. El Papa Juan Pablo II acaba de morir y la plaza de San Pedro se llena de fieles dispuestos a darle el último adiós. Al mismo tiempo, se inician los preparativos para el cónclave del que ha de salir el nombre del nuevo Sumo Pontifice. Justo entonces dos cardenales aparecen asesinados siguiendo un macabro ritual que incluye la mutilación de miembros y mensajes escritos con simbología religiosa. Un asesino en serie anda suelto por las calles de Roma, y la encargada de perseguirlo será la inspectora y psiquiatra criminalista Paola Dicanti. A la cruel astucia del psicópata se unen las trabas que los servicios de seguridad del Vaticano ponen a la investigación: oficialmente las muertes de los cardenales no están ocurriendo y el cónclave debe celebrarse a toda costa. La aparición del padre Fowler, un ex militar norteamericano, supondrá un nuevo desafío para Dicanti, reacia a confiar en el misterioso sacerdote. Pero Fowler conoce el nombre del asesino y guarda un secreto aún más temible: su propio pasado.\n\n“A dark and riveting murder thriller, crafted with great cunning and flair. A classy and hugely satisfying piece of writing.”\n—Raymond Khoury, New York Times bestselling author of The Last Templar\n\n“Juan Gómez-Jurado has deftly managed to convey a sinister side of not just the Vatican. His God’s Spy offers a stunning literary portrait of the darkness that lies within us all.”\n—Javier Sierra, New York Times bestselling author of The Secret Supper",
+        "tags": [
+            "Thriller",
+            "Asesinato",
+            "Vaticano",
+            "Misterio",
+            "Religión"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81tPrmaPJuL._SL1500_.jpg",
+        "title": "Dispara, yo ya estoy muerto",
+        "publish_date": "2016-06-16",
+        "author": "Julia Navarro",
+        "resume": "La gran novela de Julia Navarro sobre la historia de Palestina e Israel desde finales del siglo XIX hasta nuestros días. Una historia llena de historias, una gran novela que esconde muchas novelas y que, desde su enigmático título hasta su inesperado final, alberga más de una sorpresa y emociones a flor de piel. Hay momentos en la vida en los que la única manera de salvarse a uno mismo es muriendo o matando. A finales del siglo XIX, durante la última etapa zarista, los Zucker, perseguidos por su condición de judíos, tienen que abandonar Rusia huyendo del horror y la sinrazón. A su llegada a la Tierra Prometida, Samuel Zucker adquiere las tierras de los Ziad, una familia árabe encabezada por Ahmed. Entre él y Samuel nace un fuerte vínculo, una sólida amistad que, por encima de las diferencias religiosas y políticas, se mantiene generación tras generación. Con las amenazas, la sed de venganza y muchas pasiones desatadas como telón de fondo, las vidas entrecruzadas de los Zucker y los Ziad conforman un mosaico de traiciones y sufrimientos, de amores posibles e imposibles, al tiempo que plasman la gran aventura de vivir y convivir en un territorio marcado por la intolerancia. Intensa y conmovedora crónica de dos sagas familiares, esta novela de Julia Navarro nos adentra en las vidas de personas con nombres y apellidos, que luchan por alcanzar sus sueños y que son responsables de su propio destino.",
+        "tags": [
+            "Novela histórica",
+            "Israel",
+            "Palestina",
+            "Saga familiar",
+            "Siglo XIX"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81MbXW8vCxL._SL1500_.jpg",
+        "title": "El baile de las marionetas",
+        "publish_date": "2020-02-06",
+        "author": "Mercedes Guerrero",
+        "resume": "Una historia de amistad, de supervivencia, de personajes entrañables, de lealtades inquebrantables, amores imposibles y traiciones imperdonables. En Afganistán, la doctora Edith Lombard descubre una perla de ámbar que reconoce de un atraco en su infancia en Quebec. Esta perla está vinculada a la desaparecida Cámara de Ámbar de San Petersburgo y su historia se entrelaza con la de unos niños exiliados durante la guerra civil española, que terminan siendo utilizados por el gobierno de Stalin en la Unión Soviética.",
+        "tags": [
+            "Historia de amistad",
+            "Supervivencia",
+            "Lealtades",
+            "Guerra Civil Española",
+            "Perla de Ámbar"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61ND--1G3pL._SL1500_.jpg",
+        "title": "LOS HUÉRFANOS",
+        "publish_date": "2023-12-11",
+        "author": "Ángel Fernández Camuñas",
+        "resume": "En un pequeño municipio del norte de España, durante la Nochebuena de 2001, desaparece Nerea, una joven de dieciséis años. Pocos días después, encuentran el cuerpo de otra chica en el monte, en estado de putrefacción. Dos agentes de la Guardia Civil, la sargento Gloria Torres y el capitán Juan Vázquez, son enviados al pueblo para investigar este misterio, que se complica aún más al descubrir conexiones con un crimen ocurrido veinte años atrás. El suspense y los giros inesperados marcan este vertiginoso thriller donde cada capítulo deja al lector con la boca abierta.",
+        "tags": [
+            "Thriller psicológico",
+            "Asesinato",
+            "Desaparición",
+            "Guardia Civil",
+            "Misterio"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/51CegAlENZL._SL1499_.jpg",
+        "title": "LOS HUÉRFANOS",
+        "publish_date": "2023-12-11",
+        "author": "Ángel Fernández Camuñas",
+        "resume": "En un pequeño municipio del norte de España, durante la Nochebuena de 2001, desaparece Nerea, una joven de dieciséis años. Pocos días después, encuentran el cuerpo de otra chica en el monte, en estado de putrefacción. Dos agentes de la Guardia Civil, la sargento Gloria Torres y el capitán Juan Vázquez, son enviados al pueblo para investigar este misterio, que se complica aún más al descubrir conexiones con un crimen ocurrido veinte años atrás. El suspense y los giros inesperados marcan este vertiginoso thriller donde cada capítulo deja al lector con la boca abierta.",
+        "tags": [
+            "Thriller psicológico",
+            "Asesinato",
+            "Desaparición",
+            "Guardia Civil",
+            "Misterio"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/819d1qSQw+L._SL1500_.jpg",
+        "title": "La pareja de al lado",
+        "publish_date": "2018-02-01",
+        "author": "Shari Lapena",
+        "resume": "Todo comenzó en una cena con los vecinos... Tu vecina te dijo que preferiría que no llevaras a tu bebé de seis meses a la cena. No es nada personal, simplemente no soporta sus llantos. Tu marido estaba de acuerdo. Después de todo, vivís en la casa de al lado. Podíais llevaros el monitor infantil y turnaros para pasar a verla cada media hora. Tu hija dormía cuando fuiste a comprobar por última vez. Sin embargo, en este momento, mientras subes corriendo las escaleras hasta su habitación envuelta en un absoluto silencio, confirmas que tu peor pesadilla se ha hecho realidad: ha desaparecido. Nunca antes habías tenido que llamar a la policía. Ahora están en tu casa y quién sabe lo que pueden llegar a descubrir. ¿De qué serías capaz cuando has sobrepasado tus límites? Este thriller psicológico te mantendrá en vilo hasta el último momento.",
+        "tags": [
+            "Thriller psicológico",
+            "Desaparición",
+            "Suspense",
+            "Misterio"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/9144nAId-JL._SL1500_.jpg",
+        "title": "El mercader de libros",
+        "publish_date": "2020-03-12",
+        "author": "Luis Zueco",
+        "resume": "En el año 1517, Thomas, un joven atraviesa la Europa renacentista huyendo de su pasado y fascinado por el Nuevo Mundo, comienza a trabajar con un mercader de libros en España. Su misión es localizar un ejemplar misterioso que ha sido robado de la biblioteca más importante de Occidente, la Colombina en Sevilla, creada por el hijo de Cristóbal Colón. En este periodo de profundos cambios tras el descubrimiento de América y la invención de la imprenta, los libros son capaces de descubrir nuevos mundos, cuestionar dogmas y cambiar la Historia. Luis Zueco combina rigor histórico y una trama trepidante para sumergir al lector en los albores de la bibliofilia, donde la palabra impresa era un arma poderosa.",
+        "tags": [
+            "Histórica",
+            "Bibliofilia",
+            "Rigor histórico",
+            "Intriga"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/91S5YdrtKKL._SL1500_.jpg",
+        "title": "La Bestia",
+        "publish_date": "2023-09-13",
+        "author": "Carmen Mola",
+        "resume": "En el Madrid de 1834, una ciudad agobiada por una epidemia de cólera y el terror de cadáveres desmembrados de niñas sin reclamar, aparece la figura de la Bestia, un ser temido por todos. Cuando Clara, una niña, desaparece, su hermana Lucía, junto con un policía tuerto llamado Donoso y un periodista llamado Diego, se lanzan en una búsqueda frenética para encontrarla. En su camino se encuentran con fray Braulio, un monje guerrillero, y un misterioso anillo de oro que despierta codicia y desencadena muertes. Carmen Mola entrelaza magistralmente elementos de thriller en esta novela impactante y oscura, llena de intriga y suspense.",
+        "tags": [
+            "Premio Planeta",
+            "Thriller",
+            "Misterio",
+            "Madrid",
+            "Epidemia",
+            "Siglo XIX"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/91I9V2YmlQL._SL1500_.jpg",
+        "title": "Érase una vez la taberna Swan",
+        "publish_date": "2020-02-13",
+        "author": "Diane Setterfield",
+        "resume": "En el pequeño pueblo inglés de Radcot, a orillas del Támesis, la antigua taberna Swan es conocida por reunir a los mejores narradores de cuentos populares. En una noche oscura y brumosa, la tranquilidad se ve interrumpida por la llegada de un hombre empapado en sangre que lleva a una niña inconsciente en brazos. Mientras tanto, dos familias buscan desesperadamente a sus hijas desaparecidas. Diane Setterfield teje una historia fascinante que combina misterio, folclore y la importancia de narrar historias en una trama evocadora que transporta al lector entre lo humano y lo sobrenatural.",
+        "tags": [
+            "Historia gótica",
+            "Misterio",
+            "Folclore",
+            "Narrativa británica",
+            "Taberna",
+            "Cuentos populares"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61NrOuaRJqL._SL1200_.jpg",
+        "title": "Cuando te encontré",
+        "publish_date": "2024-05-27",
         "author": "Lisa Jewell",
-        "resume": "Una historia de misterio y redención.",
-        "tags": ["novela contemporánea", "misterio"],
-        "image": "URL_de_la_imagen"
+        "resume": "Alice Lake, una madre soltera con una vida caótica, encuentra a un hombre en la playa del noreste del Reino Unido. Este hombre no recuerda quién es ni cómo llegó allí. Mientras tanto, en Surrey, Lily Monrose, recién casada y recién llegada al país, descubre que su marido ha desaparecido y parece que nunca ha existido. Dos mujeres, veinte años de secretos y un hombre sin memoria se entrelazan en esta fascinante novela de Lisa Jewell, conocida por sus magistrales thrillers que mantienen al lector en vilo hasta la última página.",
+        "tags": [
+            "Thriller psicológico",
+            "Misterio",
+            "Secretos familiares",
+            "Desaparición",
+            "Identidad perdida",
+            "Relaciones personales"
+        ]
     },
     {
-        "title": "Blackwater 1: La riada",
-        "publish_date": "2024-03-13",
-        "author": "Michael McDowell",
-        "resume": "La primera entrega de una saga familiar con toques sobrenaturales.",
-        "tags": ["novela de terror", "suspense"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/91G14ilFUpL._SL1500_.jpg",
+        "title": "La Isla de los Ausentes",
+        "publish_date": "No especificado",
+        "author": "Gregg Dunnett",
+        "resume": "Billy Wheatley se ve involucrado en la investigación de la desaparición de una joven turista en la remota Isla de Lornea, donde creció. Él fue la última persona que la vio con vida y ahora se enfrenta a un peligroso descubrimiento de mentiras y secretos familiares. Este thriller de suspense y misterio psicológico es el primero de una serie de cuatro novelas autoconclusivas, que ha recibido miles de reseñas internacionales de cinco estrellas.",
+        "tags": [
+            "Thriller psicológico",
+            "Misterio",
+            "Desaparición",
+            "Secretos familiares",
+            "Investigación criminal"
+        ]
     },
     {
-        "title": "El hijo olvidado",
-        "publish_date": "2024-06-22",
-        "author": "Mikel Santiago",
-        "resume": "Un thriller sobre conspiraciones y secretos oscuros.",
-        "tags": ["novela de terror", "thriller"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/71Wu2iapTBL._SL1500_.jpg",
+        "title": "UN CAFÉ A SOLAS",
+        "publish_date": "2022-12-01",
+        "author": "MIGUEL ÁNGEL MONTERO",
+        "resume": "Descubre la novela emocional del autor de 'El hombre que tenía miedo a vivir'. En 'Un café a solas', se exploran sentimientos escondidos y se ofrecen dosis de motivación, reflexión, superación, intriga y emoción. La historia apuesta por el cambio, el amor, los sueños y el sabor de vivir con pasión y valentía, en un viaje sensorial que invita a descubrir regalos escondidos bajo capas de incertidumbre y a creer de nuevo en lo que parecía perdido, todo mientras se saborea un café o la propia vida.",
+        "tags": [
+            "Novela emocional",
+            "Motivación",
+            "Reflexión",
+            "Amor",
+            "Superación"
+        ]
     },
     {
-        "title": "Amanecer",
-        "publish_date": "2024-01-05",
-        "author": "Defreds",
-        "resume": "Una colección de poemas sobre el amor y la esperanza.",
-        "tags": ["poesía", "romántico"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/71Nb2gyaeFL._SL1500_.jpg",
+        "title": "Un extraño en casa",
+        "publish_date": "2019-03-07",
+        "author": "Shari Lapena",
+        "resume": "Shari Lapena, autora del aclamado thriller 'La pareja de al lado', presenta una nueva novela repleta de giros y secretos. Una mujer despierta en el hospital sin memoria de cómo ha llegado allí después de sufrir un accidente. La policía sospecha de ella, su marido se niega a creerlo, y su mejor amiga no está tan segura. En esta intriga psicológica, nada es lo que parece y cada página revela nuevos secretos hasta un deslumbrante giro final.",
+        "tags": [
+            "Thriller psicológico",
+            "Secretos",
+            "Giros inesperados",
+            "Suspense",
+            "Amnesia"
+        ]
     },
     {
-        "title": "Lo que pasa es que te quiero",
-        "publish_date": "2024-02-11",
-        "author": "Gloria Fuertes",
-        "resume": "Poemas que exploran las profundidades del amor y la vida.",
-        "tags": ["poesía", "amor"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/71teJfUXnxL._SL1499_.jpg",
+        "title": "PIEL",
+        "publish_date": "2023-11-02",
+        "author": "Fernando Gamboa",
+        "resume": "En 'PIEL', Fernando Gamboa presenta un absorbente thriller policíaco protagonizado por la agente Nuria Badal. En una Barcelona afectada por el frío invernal, Nuria investiga una serie de crímenes atroces que desafían toda explicación racional. Con una espiral de violencia en la ciudad, Nuria se adentra en lo más oscuro de la psique humana, arriesgando todo para descubrir la verdad detrás de los crímenes. 'PIEL' es una novela negra que te mantendrá en vilo hasta su inesperado final.",
+        "tags": [
+            "Thriller policíaco",
+            "Asesinatos",
+            "Misterio",
+            "Barcelona",
+            "Violencia"
+        ]
     },
     {
-        "title": "Almudena",
-        "publish_date": "2024-03-07",
-        "author": "Luis García Montero",
-        "resume": "Una obra dedicada a la memoria y los recuerdos.",
-        "tags": ["poesía", "memoria"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/71m+FAPBVTL._SL1500_.jpg",
+        "title": "LA SUERTE DE LOS IDIOTAS",
+        "format": "Versión Kindle",
+        "author": "Roberto Martínez Guzmán",
+        "resume": "En 'LA SUERTE DE LOS IDIOTAS', Lucas Acevedo, un policía marcado por una misión fallida en Madrid, regresa a Galicia en busca de paz. Sin embargo, su vida se complica cuando conoce a una mujer y comienza una cadena de muertes a su alrededor. Pronto se ve envuelto en una batalla donde él mismo es el objetivo. Este thriller negro y adictivo ha sido la novela más descargada en la historia de Amazon España.",
+        "tags": [
+            "Thriller negro",
+            "Galicia",
+            "Intriga",
+            "Acción",
+            "Adicción"
+        ]
     },
     {
-        "title": "One Piece nº 05 (3 en 1)",
-        "publish_date": "2024-04-01",
-        "author": "Eiichiro Oda",
-        "resume": "Las aventuras del pirata Luffy en una edición especial.",
-        "tags": ["cómic y manga", "aventura"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/81u3nxRaSBL._SL1500_.jpg",
+        "title": "Contando atardeceres",
+        "format": "Tapa blanda",
+        "author": "La Vecina Rubia",
+        "resume": "En 'Contando atardeceres', La Vecina Rubia nos sumerge en una historia emotiva y divertida donde el destino y las segundas oportunidades juegan un papel crucial. Tras la pérdida de su padre, un viaje improvisado lleva a la protagonista a descubrir el amor y la isla de Javi. Este libro nos invita a reflexionar sobre la vida mientras disfrutamos de atardeceres llenos de luces y sombras.",
+        "tags": [
+            "Romance",
+            "Emociones",
+            "Segundas oportunidades",
+            "Reflexión",
+            "Humor"
+        ]
     },
     {
-        "title": "Dragon Ball Super nº 20",
-        "publish_date": "2024-03-17",
-        "author": "Akira Toriyama y Toyotarou",
-        "resume": "Continuación de las emocionantes batallas de Goku y sus amigos.",
-        "tags": ["cómic y manga", "aventura"],
-        "image": "URL_de_la_imagen"
+        "image": "https://m.media-amazon.com/images/I/71HuL8SC49L._SL1500_.jpg",
+        "title": "Balas ciegas",
+        "format": "Versión Kindle",
+        "author": "Joseba Alfaro",
+        "resume": "En 'Balas ciegas', Joseba Alfaro presenta una novela policiaca que aborda temas de corrupción, misterio y suspense en una España poscrisis de 2008. El subinspector Héctor Garrido se enfrenta a un caso de alto perfil que lo lleva a descubrir una oscura trama de negocios turbios y enfrentarse a políticos, policías corruptos y mercenarios. Garrido debe decidir entre seguir órdenes corruptas o mantenerse fiel a la justicia y la verdad.",
+        "tags": [
+            "Corrupción política",
+            "Misterio y suspense",
+            "Integridad policial",
+            "Reflexión social",
+            "Dilemas éticos"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81MA0wTZUlS._SL1500_.jpg",
+        "title": "Dime quién soy",
+        "format": "Libro de bolsillo",
+        "author": "Julia Navarro",
+        "resume": "Espionaje e intriga en estado puro, amores y desamores desgarrados, aventura e historia de un siglo hecho pedazos, Dime quién soy es un apasionante relato protagonizado por unos personajes inolvidables cuyas vidas construyen un magnífico retrato de la historia del siglo XX. Un periodista investiga la vida de su bisabuela, Amelia Garayoa, una mujer que huyó abandonando a su marido y a su hijo antes de la guerra civil española. Desde los años de la Segunda República hasta la caída del Muro de Berlín, la historia de Amelia está marcada por hombres como Santiago Carranza, Pierre Comte, Albert James y Max von Schumann.",
+        "tags": [
+            "Espionaje",
+            "Intriga",
+            "Amores y desamores",
+            "Segunda Guerra Mundial",
+            "Guerra Fría"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/91vNoDbAdkL._SL1500_.jpg",
+        "title": "Los herederos de la tierra",
+        "format": "Tapa dura",
+        "author": "Ildefonso Falcones",
+        "resume": "La muy esperada continuación del gran fenómeno editorial La catedral del mar de Ildefonso Falcones. En Barcelona, 1387, Hugo Llor, hijo de un marinero fallecido, trabaja en las atarazanas gracias a la generosidad de Arnau Estanyol. Su vida cambia cuando la familia Puig ejecuta una venganza contra su mentor, obligándolo a abandonar su barrio. Junto a Mahir, un judío del mundo del vino, Hugo descubre la pasión por la tierra y se enamora de Dolça, la sobrina del judío. Diez años después de La catedral del mar, Falcones regresa a la Barcelona medieval, recreando una sociedad feudal y la lucha de un hombre por su dignidad.",
+        "tags": [
+            "Barcelona medieval",
+            "Lealtad y venganza",
+            "Amor prohibido",
+            "Sociedad feudal",
+            "Recreación histórica"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81uncQa-6NL._SL1500_.jpg",
+        "title": "Reina roja (Antonia Scott 1)",
+        "format": "Libro de bolsillo",
+        "author": "Juan Gómez-Jurado",
+        "resume": "Antonia Scott es una mujer especial que ha resuelto numerosos crímenes sin ser policía ni criminalista. Sin embargo, desde hace tiempo vive recluida en su ático en Lavapiés, protegiendo lo que más le importa. Su tranquilidad se ve perturbada cuando escucha pasos desconocidos subiendo las escaleras hacia su piso, segura de que alguien viene a buscarla. Este thriller te mantendrá en vilo hasta el final.",
+        "tags": [
+            "Personaje intrigante",
+            "Thriller psicológico",
+            "Misterio y suspense",
+            "Crítica internacional",
+            "Reclusión y peligro"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81uncQa-6NL._SL1500_.jpg",
+        "title": "Reina roja (Antonia Scott 1)",
+        "publish_date": "2 junio 2022",
+        "author": "Juan Gómez-Jurado",
+        "resume": "Antonia Scott es una mujer especial que ha resuelto numerosos crímenes sin ser policía ni criminalista. Sin embargo, desde hace tiempo vive recluida en su ático en Lavapiés, protegiendo lo que más le importa. Su tranquilidad se ve perturbada cuando escucha pasos desconocidos subiendo las escaleras hacia su piso, segura de que alguien viene a buscarla. Este thriller te mantendrá en vilo hasta el final.",
+        "tags": [
+            "Personaje intrigante",
+            "Thriller psicológico",
+            "Misterio y suspense",
+            "Crítica internacional",
+            "Reclusión y peligro"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81p+eYgTuDL._SL1500_.jpg",
+        "title": "La villa de las telas (La villa de las telas 1)",
+        "publish_date": "11 enero 2018",
+        "author": "Anne Jacobs",
+        "resume": "Una emocionante saga familiar ambientada en Augsburgo, 1913. Marie, una joven proveniente de un orfanato, comienza a trabajar en la cocina de la mansión de los Melzer, una rica familia dedicada a la industria textil. Entre celos, intrigas y secretos familiares, se desarrolla una historia de amor prohibido entre Marie y Paul, el heredero.",
+        "tags": [
+            "Saga familiar",
+            "Drama histórico",
+            "Secretos y conspiraciones",
+            "Amor prohibido",
+            "Vida en la alta sociedad"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/A1vcxOPBt7L._SL1500_.jpg",
+        "title": "El bosque de la memoria (Best Seller)",
+        "publish_date": "5 marzo 2020",
+        "author": "Sam Lloyd",
+        "resume": "Un thriller atmosférico e inquietante sobre la parte más oscura del alma humana. Elissa es secuestrada en el día más importante de su vida y despierta atada en un lugar desconocido. Elijah, un niño de diez años, la encuentra y se enfrenta a decisiones difíciles. Ambos se ven envueltos en un juego mortal de engaño y traición en el Bosque de la Memoria, donde perder no es una opción y la supervivencia depende de actuar de forma implacable.",
+        "tags": [
+            "Thriller atmosférico",
+            "Secuestro",
+            "Niños involucrados en situaciones peligrosas",
+            "Juego mortal de engaño y traición",
+            "Supervivencia"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61z8qZm1R3L._SL1080_.jpg",
+        "title": "Un jardín en el mar: Manila y Madrid, dos mundos que se alejan, unidos por un lazo invisible de mujeres en busca de su libertad (NOVELA HISTORICA)",
+        "publish_date": "4 octubre 2023",
+        "author": "Pilar Méndez Jiménez",
+        "resume": "En el ocaso del imperio español, tres mujeres unidas por los lazos del destino buscan un nuevo propósito para sus vidas. Elba viaja desde Galicia a Madrid tras quedar viuda. Johanna, una joven aristócrata holandesa en Manila, se encuentra con un hombre misterioso sin recuerdos. Rosario, la primera mujer masona de Filipinas, actúa como puente entre ambos mundos. Descubre misterio, romance y traición en este cruce de caminos a través del vasto océano.",
+        "tags": [
+            "Novela histórica",
+            "Ocaso del imperio español",
+            "Misterio y romance",
+            "Feminismo y liberación",
+            "Secretos y traición"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61IcYV1FdBL._SL1500_.jpg",
+        "title": "La Casa de los Principios",
+        "publish_date": "15 marzo 2021",
+        "author": "Ana González Duque",
+        "resume": "Sara Flavín siente que su vida se ha quedado en suspenso. Trabaja en algo que no le gusta y su relación de pareja terminó por un accidente. Su padre, un alto ejecutivo, la maneja como si aún fuera una niña. Un fin de semana, su padre la envía a valorar la antigua casa de su abuela, donde descubre que no está vacía. Los excéntricos residentes incluyen una bibliotecaria jubilada con fama de bruja, una niña que colecciona palabras raras y un hombre encantador. Sara decide indagar en la historia de los habitantes de la casa, sin saber que podría descubrir aspectos de su propia historia.",
+        "tags": [
+            "Novela feelgood",
+            "Descubrimiento personal",
+            "Relaciones familiares",
+            "Encanto y misterio",
+            "Exploración del pasado"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71wi0V-4UKL._SL1500_.jpg",
+        "title": "No es lo que parece: Un caso del inspector Salazar",
+        "publish_date": "Versión Kindle",
+        "author": "M.J. Fernández",
+        "resume": "La muerte sorprende a Juanjo rodeado de sus votantes y de la prensa. ¿Fue la fatalidad o alguien intervino? A pesar de parecer una muerte natural, el inspector Salazar y su nueva compañera descubren que en realidad se trata de un asesinato. A medida que investigan, desentrañan una compleja red de delitos que no será fácil resolver. El asesino está dispuesto a todo para protegerse, incluso a cometer más homicidios.",
+        "tags": [
+            "Novela negra española",
+            "Intriga y misterio",
+            "Investigación policial",
+            "Complicaciones y giros inesperados",
+            "Peligro y suspense"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/91t2eX1dHUL._SL1500_.jpg",
+        "title": "La Cala: Un intenso thriller que te dejará sin aliento (Inspectora Erica Sands nº 1)",
+        "publish_date": "Versión Kindle",
+        "author": "Gregg Dunnett",
+        "resume": "Tras la inesperada pérdida de su esposo, Christine Harvey compra una majestuosa casa en un acantilado con la esperanza de encontrar la felicidad para su familia. Sin embargo, descubre que la casa tiene un pasado sombrío relacionado con la desaparición de una niña. Christine se obsesiona con investigar el caso y se enfrenta a una aterradora realidad que pone en peligro a sus hijos.",
+        "tags": [
+            "Thriller intenso",
+            "Desaparición misteriosa",
+            "Investigación obsesiva",
+            "Amenaza creciente",
+            "Suspense y tensión"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61f5zpmoaZL._SL1500_.jpg",
+        "title": "Sol negro",
+        "publish_date": "8 febrero 2023",
+        "author": "Laura Tarragó",
+        "resume": "En un mundo afectado por una inversión de los polos magnéticos causada por el cambio climático, Anna Brown y su tío Sebastián emprenden una trepidante búsqueda cuyo éxito determinará el destino de la humanidad. Desde Londres hasta la Antártida, desenterrando secretos ancestrales y luchando contra conspiraciones globales, esta novela ofrece una crítica social sobre el cambio climático y una narrativa cautivadora llena de misterio, aventura, romance y ciencia ficción.",
+        "tags": [
+            "Thriller de misterio y aventura",
+            "Cambio climático",
+            "Conspiraciones globales",
+            "Catástrofes naturales",
+            "Ciencia ficción"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81zex3XSefL._SL1500_.jpg",
+        "title": "París despertaba tarde (Autores Españoles e Iberoamericanos)",
+        "publish_date": "Versión Kindle",
+        "author": "Máximo Huerta",
+        "resume": "Alice Humbert, con el corazón roto por la partida de Erno Hessel a Nueva York, se encuentra en el vibrante París de 1924. Mientras la ciudad se prepara para los Juegos Olímpicos y vive un auge artístico y social, Alice trabaja como modista, cuida a sus hermanos y encuentra consuelo en sus amigas, especialmente Kiki de Montparnasse. A medida que sus diseños ganan fama y conoce a un nuevo hombre, secretos del pasado amenazan con cambiar su presente.",
+        "tags": [
+            "Romance y desamor",
+            "París en 1924",
+            "Crecimiento personal",
+            "Movimiento artístico",
+            "Secretos del pasado"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/612k+073ugL._SL1500_.jpg",
+        "title": "LA MUERTE MÁS EXTRAÑA DE OSLO: Un caso policial inspirado en hechos reales que no dejará indiferente al lector.",
+        "publish_date": "25 enero 2024",
+        "author": "Raúl York",
+        "resume": "El 3 de junio de 1995, en el Hotel Oslo Plaza, una mujer joven fue encontrada muerta, aparentemente suicidada. Sin embargo, la policía descubre que la mujer no existía. ¿Quién era y fue realmente un suicidio? Raúl York presenta un inquietante thriller policial basado en hechos reales, explorando la misteriosa muerte en la habitación 2805.",
+        "tags": [
+            "Thriller policial",
+            "Inspirado en hechos reales",
+            "Suspense e intriga",
+            "Misterio sin resolver",
+            "Narrativa impactante"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81MBXPFCvGL._SL1500_.jpg",
+        "title": "La tercera familia: Un thriller que hiela la sangre",
+        "publish_date": "Versión Kindle",
+        "author": "Marcos Nieto Pallarés",
+        "resume": "Emily Hayes despierta en un sótano con su hijo, secuestrados por un hombre que niega ser el famoso asesino conocido como el Rompefamilias. Mientras intentan cumplir con sus reglas para sobrevivir, el detective Shaun Everett del Departamento de Policía de Nueva York investiga el caso, descubriendo verdades que cambiarán su vida para siempre. Este thriller atrapante te mantendrá en vilo hasta la última página.",
+        "tags": [
+            "Thriller psicológico",
+            "Secuestro y supervivencia",
+            "Investigación criminal",
+            "Identidad misteriosa",
+            "Suspense y tensión"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71bddS4s5+L._SL1500_.jpg",
+        "title": "La última cripta: 1 (Las aventuras de Ulises Vidal)",
+        "publish_date": "9 febrero 2013",
+        "author": "Mr Fernando Gamboa",
+        "resume": "Ulises Vidal, un submarinista, descubre una campana templaria del siglo XIV en un arrecife hondureño. Junto a un historiador medieval y una arqueóloga mexicana, emprende una peligrosa búsqueda del tesoro de la Orden del Temple. La aventura los lleva por España, Mali, el Caribe y la selva mexicana, donde enfrentan numerosos enigmas y peligros. Sin embargo, el verdadero misterio que descubren podría cambiar la historia de la humanidad y su comprensión del universo.",
+        "tags": [
+            "Novela de aventuras",
+            "Descubrimiento arqueológico",
+            "Búsqueda del tesoro",
+            "Orden del Temple",
+            "Misterio histórico"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/815RmctD7cL._SL1500_.jpg",
+        "title": "El destino de los héroes",
+        "publish_date": "Versión Kindle",
+        "author": "Chufo Lloréns",
+        "resume": "En el París bohemio y el Madrid castizo de principios del siglo XX, dos historias de amor florecen en medio de la turbulencia de la Gran Guerra. Gerhard, un joven alemán en Montmartre, se enamora de Lucie, mientras que en Madrid, el aristocrático José Cervera se rinde ante Nachita, la hija de un indiano. Esta saga familiar recorre las primeras décadas del siglo XX, abarcando la guerra, el amor, los celos y la traición, afectando profundamente a las vidas de sus protagonistas y sus hijos.",
+        "tags": [
+            "Novela histórica",
+            "Gran Guerra",
+            "Amor y traición",
+            "Conflictos bélicos",
+            "Saga familiar"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71-kemTeq2L._SL1500_.jpg",
+        "title": "El invierno más largo",
+        "publish_date": "12 abril 2017",
+        "author": "Cecilia Ekbäck",
+        "resume": "Un thriller oscuro y frío ambientado en la Suecia del siglo XVIII. En 1717, Maija y su familia emigran desde Finlandia a Laponia sueca. Un día, sus hijas encuentran un cadáver en el bosque, y Maija comienza a investigar, descubriendo que los habitantes del pueblo cercano esconden oscuros secretos. La muerte de Eriksson, atribuida inicialmente a un lobo, revela heridas demasiado precisas para un ataque animal. Este best seller internacional, traducido a más de 10 idiomas, envuelve al lector en una trama de misterio y suspense, destacada por su ambientación histórica y atmósfera inquietante.",
+        "tags": [
+            "Thriller histórico",
+            "Siglo XVIII",
+            "Suecia",
+            "Suspense y misterio",
+            "Noir escandinavo"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71-NhEr-81L._SL1500_.jpg",
+        "title": "El hombre que tenía miedo a vivir",
+        "publish_date": "28 octubre 2018",
+        "author": "Miguel Ángel Montero",
+        "resume": "Un best seller de desarrollo personal que ha transformado vidas y traspasado fronteras, traducido a múltiples idiomas. Este libro emotivo e inspirador invita al lector a emprender un viaje hacia el interior de sí mismo, descubriendo que vivir no es lo mismo que existir. Miguel Ángel Montero, maestro y licenciado en Antropología, comparte sus experiencias y estudios para ayudar a otros a vivir felices y hacer felices a quienes les rodean. Una obra que promueve la motivación y la superación personal.",
+        "tags": [
+            "Desarrollo personal",
+            "Motivación",
+            "Superación",
+            "Transformación",
+            "Felicidad"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61YqJMvZ6dL._SL1499_.jpg",
+        "title": "El abrazo de los valientes",
+        "publish_date": "2023-09-21",
+        "author": "Javier López García",
+        "resume": "ALEMANIA, 1935. Elay Levi, un joven judío que lucha en la sombra contra el régimen nazi, debe huir del país para evitar que lo detenga la Gestapo. Su novia Wanda Schmidt, alemana de origen ario, aguarda su regreso mientras se implica en una peligrosa relación con un soldado de las SS para mantener con vida al padre de Elay, encerrado en el campo de concentración de Dachau. Esta es la historia de una pareja que, pese a tener todo en contra, decide amarse. Una novela rebosante de intriga, impecablemente documentada y de ritmo ágil, que nos muestra un combate feroz en el que la amistad y el amor se enfrentan al odio y al mal que imperan en el Tercer Reich.",
+        "tags": [
+            "historical fiction",
+            "WWII",
+            "love story"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/811r1hDJQ3L._SL1500_.jpg",
+        "title": "Un crimen invisible. Crímenes imperceptibles nº 1",
+        "publish_date": "YYYY-MM-DD",
+
+
+
+        "author": "J. J. Fernández",
+        "resume": "Desenterrando el pasado, desvelamos verdades ocultas. Hace veintiocho años, tres niños jugaban al fútbol junto a las vías del tren, en un lugar que pronto se convertiría en el escenario de una tragedia. Hicieron una apuesta… Un niño murió arrollado por un tren. Otro niño confesó una mentira. Y el tercer niño desapareció. La verdad sobre lo que realmente sucedió quedó sepultada bajo el peso del tiempo… hasta ahora. Jerónimo es un traductor en paro que siempre cumple lo que promete, o al menos lo intenta. Pocos días antes de su regreso a Valencia desde Londres para reencontrarse con su familia, una joven madre danesa desaparece después de recoger a su hija de la guardería en un barrio de la ciudad. El marido, desesperado, recurre a la ayuda de Jerónimo. Lo que comienza como un simple trabajo de interpretación pronto se convierte en algo mucho más oscuro. ¿Qué conexión guarda la desaparición de la madre con el pasado de Jerónimo? Todos tienen un secreto, pero no todos están dispuestos a perdonar.",
+        "tags": [
+            "thriller",
+            "misterio",
+            "suspense"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71fTZuWQsrL._SL1500_.jpg",
+        "title": "Violeta",
+        "author": "Isabel Allende",
+        "publish_date": "YYYY-MM-DD",
+
+
+
+        "resume": "La épica y emocionante historia de una mujer cuya vida abarca los momentos históricos más relevantes del siglo XX.",
+        "tags": [
+            "épica",
+            "historia del siglo XX",
+            "mujeres"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61dQnYX6WhS._SL1500_.jpg",
+        "title": "Les robaron su niñez",
+        "publish_date": "2021-06-23",
+        "author": "José María España",
+        "resume": "En el período de entreguerras, comprendido entre 1918 y 1939, nacen un niño y una niña en un pueblo de la provincia de Zamora, con unas expectativas nada halagüeñas, rodeados de miseria y necesidades increíbles para cualquier ser humano. Les robaron su niñez es una novela basada en las sombras y las luces de dos criaturas nacidas justo antes de la Guerra Civil, cuando ambos se protegían de las agresiones vividas en sus propias familias. Vivieron días y noches de esplendor dignas de ser compartidas y leídas; sus aventuras fueron muchas, y muy variadas.",
+        "tags": [
+            "novela histórica",
+            "periodo de entreguerras",
+            "infancia"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71HPK+IeyrL._SL1360_.jpg",
+        "title": "Arcadia: Una Tragedia Moderna",
+        "publish_date": "2015-08-23",
+        "author": "Samantha Devin",
+        "resume": "Julia, una escritora solitaria y desencantada de la vida, descubre en un callejón del West End Londinense un mundo pagano poblado de enigmas y oráculos presidido por la irresistible sensualidad de Daniel, encarnación del dios Dioniso. Subyugada por su fascinante e indomable personalidad, Julia se ve envuelta en un escenario de dimensiones mitológicas dominado por el deseo, el poder de la tragedia y el impulso vivificante de lo heroico. Solo aquellos dispuestos a traspasar los límites con los dioses son capaces de enfrentar la muerte.",
+        "tags": [
+            "tragedia",
+            "mitología griega",
+            "misterio",
+            "sensualidad"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81Amos7YILL._SL1500_.jpg",
+        "title": "En busca de un sueño",
+        "publish_date": "2006-07-07",
+        "author": "Nora Roberts",
+        "resume": "Laura Templeton, procedente de una familia adinerada en California, busca realizar sus sueños de juventud: un buen matrimonio y una familia feliz. Sin embargo, tras casarse con Peter, pronto descubre que no es el hombre ideal que ella imaginaba. Ante un sueño roto y una vida desmoronada, Laura encuentra apoyo en sus amigas para redescubrir quién es realmente y buscar nuevos sueños de éxito y felicidad.",
+        "tags": [
+            "romance",
+            "drama",
+            "familia",
+            "amistad"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61v+QsUtHjL._SL1200_.jpg",
+        "title": "Sintético: Vivir para siempre",
+        "publish_date": "YYYY-MM-DD",
+
+
+
+        "author": "Elena Pastor Melón",
+        "resume": "En un futuro próximo, a principios del siglo XXII, una devastadora enfermedad causada por la contaminación amenaza con extinguir a la humanidad. Una corporación privada descubre la manera de vivir para siempre a través de la ingeniería genética, ofreciendo una solución al declive demográfico. Andrew Olsen, gravemente enfermo, es seleccionado para ser transformado en un ser sintético. Sin embargo, descubre que la existencia de los sintéticos es resistida por la ONU, que teme por la preservación de la identidad humana y el statu quo. Andrew se encuentra en una lucha por la supervivencia contra la hegemonía humana en la Tierra.",
+        "tags": [
+            "ciencia ficción",
+            "ingeniería genética",
+            "futuro distópico",
+            "sociedad"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/714EL-sLQzL._SL1500_.jpg",
+        "title": "VIAJAR CON OJOS NUEVOS",
+        "publish_date": "2023-11-05",
+        "author": "JULIA RIVERA",
+        "resume": "Julia, en un momento de profunda desesperación, decide cambiar radicalmente su vida abandonando su trabajo para emprender un viaje por España. Acompañada por Jesús y su fiel perro Thor, se sumergen en una travesía de autodescubrimiento que explora las aguas tumultuosas de la incertidumbre y las profundidades de sus emociones, en busca de una vida consciente y en armonía con sus valores.",
+        "tags": [
+            "superación personal",
+            "viaje emocional",
+            "autodescubrimiento",
+            "aventura en furgoneta"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81kS3G1+CoL._SL1500_.jpg",
+        "title": "El Coliseo",
+        "publish_date": "2024-10-02",
+        "author": "Mary Beard, Keith Hopkins",
+        "resume": "Dos destacados historiadores clásicos cuentan la historia del mayor anfiteatro de Roma, el Coliseo. Inaugurado en el año 80 d.C., este monumento fue el epicentro de los juegos gladiatorios y otros eventos sangrientos que atrajeron a multitudes de hasta 50,000 personas a la vez. Los autores exploran cómo se construyó, el entrenamiento de los gladiadores, los emperadores que organizaban los juegos, y la diversa historia posterior del Coliseo como fortaleza, almacén, iglesia y fábrica de pegamento.",
+        "tags": [
+            "Roma imperial",
+            "Coliseo",
+            "historia antigua",
+            "gladiadores",
+            "monumentos históricos"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/A18kCFI8OVL._SL1500_.jpg",
+        "title": "La viajera del tiempo",
+        "publish_date": "No especificado",
+        "author": "Lorena Franco",
+        "resume": "Lia y Will son hermanos que comparten una vida marcada por una madre escritora de novelas de terror y un padre ausente. Tras la muerte de su madre, Will desaparece misteriosamente, pero cinco años después, Lia descubre un retrato de un escritor del siglo XIX que se parece extraordinariamente a su hermano. Esta coincidencia la lleva a embarcarse en un viaje al pasado en busca de respuestas y de sí misma.",
+        "tags": [
+            "viajes en el tiempo",
+            "misterio",
+            "novela familiar",
+            "retratos históricos"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61Lvexe34AL._SL1500_.jpg",
+        "title": "El reloj de Elwinga: Un relato inspirador y apasionante que nos recuerda la importancia de la amistad y la libertad",
+        "publish_date": "2 de junio de 2020",
+        "author": "Sandra Franco Álvarez, Juan José Monzón Gil",
+        "resume": "El reloj de Elwinga es más que un simple reloj; es el vínculo entre tres jóvenes en países ocupados por la Segunda Guerra Mundial y la guerra civil española. Moshé Abramsky, Sophie Vogel y Josefina Expósito narran sus vivencias en esta novela histórica basada en hechos reales. A través de sus historias, el libro ofrece momentos de luz en medio de la oscuridad, defendiendo valores como la libertad, la justicia y el respeto por los derechos humanos.",
+        "tags": [
+            "Segunda Guerra Mundial",
+            "guerra civil española",
+            "novela histórica",
+            "amistad",
+            "libertad"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81EoyhmG0zL._SL1500_.jpg",
+        "title": "La mujer de metal: (El Proyecto Orfeo, Libro 3)",
+        "publish_date": "No especificado",
+        "author": "Frank J. Cavill",
+        "resume": "Emily Rhodes es vista por una parte de la sociedad kepleriana como la salvadora de los keplerianos, destinada a liberarlos del yugo de los Khol, una poderosa raza alienígena que los tiene esclavizados. Para asumir su nuevo rol, Emily debe superar un peligroso ritual de iniciación, mientras las intrigas entre las facciones keplerianas amenazan el éxito del Proyecto Orfeo. Nuevos desafíos surgen para Emily y los habitantes de la base Magallanes en Kepler-442b, mientras el capitán Garth y sus rebeldes complican la vida en la estación espacial Asimov. El teniente Robert Beaufort se enfrenta a la misión de encontrar a los rebeldes y neutralizar la amenaza del capitán Garth.",
+        "tags": [
+            "ciencia ficción",
+            "aventura espacial",
+            "alienígenas",
+            "salvación",
+            "intriga"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81-+Jd0m3hL._SL1500_.jpg",
+        "title": "El proyecto Orfeo, Libro 2",
+        "publish_date": "No especificado",
+        "author": "Frank J. Cavill",
+        "resume": "Emily Rhodes y sus compañeros enfrentan la amenaza de los Yokai, criaturas terroríficas que atacaron su campamento en Kepler-442b y cobraron la vida del soldado Parrish. Mientras intentan establecer una base permanente en el planeta, descubren a los Gaal-El, un antiguo culto que posee conocimientos ancestrales de los keplerianos. Emily debe buscar nuevos aliados para enfrentar peligrosas situaciones e intrigas internas que ponen en riesgo el Proyecto Orfeo. Mientras tanto, buscan pistas sobre la desaparición de la estación espacial Galileo y exploran la coexistencia con otras especies alienígenas del planeta.",
+        "tags": [
+            "ciencia ficción",
+            "aventura espacial",
+            "alienígenas",
+            "intriga",
+            "diplomacia"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81d5pQOrN6L._SL1500_.jpg",
+        "title": "Tus zonas erróneas: Guía para combatir las causas de la infelicidad",
+        "publish_date": "9 febrero 2010",
+        "author": "Wayne Dyer",
+        "resume": "Millones de personas han encontrado en este libro de autoayuda una guía efectiva para entender y superar las 'zonas erróneas' que causan infelicidad. Wayne W. Dyer muestra dónde se encuentran, qué significan, adónde conducen y cómo podemos superarlas. Propone un camino hacia la felicidad basado en la responsabilidad personal y el compromiso con uno mismo. Esta edición incluye un prólogo del Dr. Enrique Rojas, psiquiatra reconocido, que complementa y contextualiza esta obra de referencia.",
+        "tags": [
+            "autoayuda",
+            "psicología",
+            "felicidad",
+            "crecimiento personal"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71XS9iSfU3S._SL1500_.jpg",
+        "title": "Yo, el asesino: Serie Novela Negra Puerta de Purchena",
+        "publish_date": "30 junio 2021",
+        "author": "Diego Uribe",
+        "resume": "En esta novela negra, el protagonista narra sus oscuros pensamientos y crímenes desde una perspectiva perturbadora. Fascinado por la muerte desde pequeño y lleno de odio, se convierte en un asesino despiadado que busca vengarse de la humanidad. La historia se desenvuelve con una narrativa cruda y escalofriante, explorando los motivos y la mente del protagonista mientras se sumerge en un oscuro camino de violencia y obsesión.",
+        "tags": [
+            "novela negra",
+            "asesino en serie",
+            "thriller psicológico",
+            "venganza"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81BDEvkElcL._SL1500_.jpg",
+        "title": "El Hijo del Traidor: (El Sendero del Guardabosques, Libro 1)",
+        "publish_date": "No especificado",
+        "author": "Pedro Urvi",
+        "resume": "En este libro de fantasía épica, un joven se embarca en una búsqueda para redimir el honor de su padre, enfrentando un reino en peligro y enemigos ocultos. Lleno de acción, aventuras y magia, esta historia cautiva a lectores de todas las edades con sus giros emocionantes y personajes memorables.",
+        "tags": [
+            "fantasía épica",
+            "aventura",
+            "magia",
+            "redención"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61oBw3O-E1L._SL1000_.jpg",
+        "title": "La biblioteca de Vaccaro",
+        "publish_date": "No especificado",
+        "author": "Gonzalo de Paz",
+        "resume": "En esta novela, el ilusionista Taffi se embarca en la búsqueda de una biblioteca legendaria dejada por su maestro, Vaccaro. Junto a Anna, la hija de Vaccaro, resolverán enigmas y seguirán pistas por Italia mientras enfrentan a poderosos interesados en el misterioso legado. ¿Existirá realmente la biblioteca? ¿Qué secretos guarda y por qué hay quienes están dispuestos a matar por ella?",
+        "tags": [
+            "misterio",
+            "aventura",
+            "enigmas",
+            "Italia"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81Fd7+dJD2L._SL1500_.jpg",
+        "title": "La trilogía de la Patagonia: Tres thrillers que no podrás soltar (Pack de thrillers ambientados en la Patagonia)",
+        "publish_date": "No especificado",
+        "author": "Cristian Perfumo",
+        "resume": "Sumérgete en la región más remota del mundo con esta trilogía de misterio ambientada en la Patagonia. Desde desapariciones misteriosas hasta secretos sumergidos en las profundidades del mar y macabras tramas que se entrelazan con la fe, estos thrillers te mantendrán en vilo mientras descubres los oscuros secretos que acechan en el paisaje salvaje de la Patagonia.",
+        "tags": [
+            "thriller",
+            "misterio",
+            "Patagonia",
+            "desapariciones",
+            "secretos"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71TxX+tmA8L._SL1500_.jpg",
+        "title": "Cuando murieron las almas: Intriga y suspense familiar | Una novela que te llevará a los límites de la obsesión",
+        "publish_date": "No especificado",
+        "author": "Marta Martín Girón",
+        "resume": "En el tranquilo pueblo de Beceite, la desaparición repentina del niño Samuel Arriaga sacude la paz local. Sus padres, Ignacio y Inmaculada, desesperados por encontrarlo, descubren que sus peores sospechas podrían ser ciertas. Con cada minuto que pasa, la esperanza de encontrar a Samuel se desvanece, mientras se desencadena una frenética búsqueda y una lucha desesperada por desentrañar la verdad detrás de su desaparición.",
+        "tags": [
+            "intriga",
+            "suspense familiar",
+            "desaparición de niños",
+            "domestic noir"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/91GkBMXSt4L._SL1500_.jpg",
+        "title": "El día que se perdió el amor",
+        "publish_date": "No especificado",
+        "author": "Javier Castillo",
+        "resume": "En esta novela trepidante, una joven llena de magulladuras aparece desnuda en las instalaciones del FBI de Nueva York con notas amarillentas en la mano. El inspector Bowring investiga su conexión con un caso de homicidio, descubriendo que ambos casos están entrelazados por antiguas heridas y secretos. Javier Castillo explora los límites del amor en una historia adictiva que continúa el fenómeno literario iniciado con 'El día que se perdió la cordura'.",
+        "tags": [
+            "thriller",
+            "intriga",
+            "crimen",
+            "misterio",
+            "relaciones personales"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81CfiFI7v+L._SL1500_.jpg",
+        "title": "El Experto Perfecto",
+        "publish_date": "No especificado",
+        "author": "Fermín Mayor García",
+        "resume": "En 'El Experto Perfecto', Fermín Mayor García presenta un thriller frenético que aborda temas de ciberterrorismo, nuevas tecnologías y los secretos de la iglesia. La trama sigue a un hacker secuestrado, un periodista en busca de un gran reportaje, y un funcionario de correos enfrentando desafíos para salvar a su chica, todo en el contexto de un programa informático revolucionario llamado El Experto Perfecto.",
+        "tags": [
+            "thriller",
+            "ciberterrorismo",
+            "nuevas tecnologías",
+            "secreto de la iglesia"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71Q4O4wfM1L._SL1500_.jpg",
+        "title": "El oscuro adiós de Teresa Lanza",
+        "publish_date": "No especificado",
+        "author": "Toni Hill",
+        "resume": "En 'El oscuro adiós de Teresa Lanza', Toni Hill presenta una novela intrigante y turbadora que gira en torno al suicidio de una joven inmigrante. Este evento altera las vidas de cinco mujeres y sus familias en un barrio residencial acomodado. La historia explora temas de hipocresía, amistad, inmigración y privilegios, destacando las tensiones y secretos ocultos entre las protagonistas.",
+        "tags": [
+            "novela negra",
+            "intriga",
+            "hipocresía",
+            "amistad",
+            "inmigración"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71NhycIKq+L._SL1500_.jpg",
+        "title": "Compartir un sueño (Trilogía de los Sueños 2) (Best Seller)",
+        "publish_date": "2006-04-07",
+        "author": "Nora Roberts",
+        "resume": "Segunda entrega de la «Trilogía de los Sueños», una historia de amistades, renuncias, nuevos sueños... Y amor. Huérfana cuando tenía ocho años, Kate Powell creció, junto a Margo y Laura, como una hija más de los Templeton y juró que nunca les defraudaría. Aguda, inteligente, con una cabeza privilegiada para los números, llegó a convertirse en una exitosa mujer de negocios. Sin embargo, la vida no es siempre un camino de rosas y pronto se vio obligada a enfrentarse al fracaso profesional y a mirar en su interior para darse cuenta de todo lo que había sacrificado. Pero es tiempo de cambios. Kate se incorpora activamente a la tienda de sus hermanas, donde conoce a un atractivo hotelero, Byron DeWitt, un hombre que puede hacer que Kate olvide que dos y dos son cuatro.",
+        "tags": [
+            "amistades",
+            "renuncias",
+            "nuevos sueños",
+            "amor"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81eMhNHHlkL._SL1500_.jpg",
+        "title": "Hotel Vendôme (Best Seller)",
+        "publish_date": "2017-11-16",
+        "author": "Danielle Steel",
+        "resume": "Danielle Steel nos sumerge en una historia apasionante ubicada en el glamuroso día a día de un hotel de lujo en el corazón de Manhattan. Heredero de una familia de banqueros suizos, Hugues Martin es el propietario de uno de los hoteles más prestigiosos de Manhattan, el Hotel Vendôme. Desde que su esposa, una supermodelo, lo abandonó por un cantante de rock, Hugues decidió vivir consagrado al negocio y a su hija de 4 años, Heloise. La niña creció feliz, arropada por el personal y por los huéspedes que la consideraban la princesa del hotel. Con el paso del tiempo Heloise decide estudiar hostelería en Suiza. Para Hugues es muy duro separarse de su hija, pero la aparición de una atractiva decoradora de interiores da un rumbo nuevo a su existencia. Heloise, por su parte, vive su primera gran historia de amor con un apuesto francés. Sin embargo, está convencida de que su futuro profesional está en el Vendôme y de que ella es la única mujer en el corazón de Hugues. Su regreso a Nueva York supondrá sorpresas, desafíos y cambios que padre e hija tendrán que asumir y superar para que el Hotel Vendôme y sus vidas puedan seguir adelante.",
+        "tags": [
+            "hotel de lujo",
+            "Manhattan",
+            "familia",
+            "amor"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71EtEctm5KL._SL1500_.jpg",
+        "title": "Diario de un médium: La historia real de un aprendiz de médium que siguió las señales para vivir su sueño",
+        "publish_date": "2024-02-18",
+        "author": "Mikel Lizarralde",
+        "resume": "La historia real de un aprendiz de médium que siguió las señales para vivir su sueño. El autor de Un nuevo mensaje vuelve con un diario sobre sus años de formación. Diario de un médium es el cofre en el que están guardados todos los secretos de un joven vasco decidido a seguir las señales que ha recibido y que viaja a Montreal para desarrollar su don al lado de Marilyn Rossner. Cuando se conocen, la médium más importante del mundo le dice: «Te estaba esperando. Sabía que un día vendrías». Ese viaje cambia a tal punto la vida de Mikel que ha dejado de importarle cuándo volverá a casa. En Montreal le espera su destino, el momento de formarse como médium en el lugar al que, por fin, siente que pertenece. Con Marilyn y su equipo, Mikel Lizarralde aprende a abrazar la misión de su vida: ayudar a las personas transmitiéndoles los mensajes de los espíritus. Mikel nos cuenta sus avances y tempranas experiencias como médium, sus primeras ceremonias y contactos con los espíritus, sus miedos y nostalgias, así como su necesidad de aprender a confiar en su energía. De vuelta en España, empieza otro viaje: convertirse en uno de los médiums más aclamados del mundo.",
+        "tags": [
+            "médium",
+            "señales",
+            "sueño",
+            "formación"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81pWMpqIUcL._SL1500_.jpg",
+        "title": "Sully: Hazaña en el Hudson",
+        "publish_date": "2024-02-18",
+        "author": "Chesley B. Sullenberger",
+        "resume": "Ahora una gran película de Clint Eastwood, protagonizada por Tom Hanks, la autobiografía inspiracional de uno de los héroes americanos más cautivadores de nuestra época, el Capitán Sullenberger “Sully”, el piloto que aterrizó milagrosamente el vuelo 1549 de US Airways en el Río Hudson de Nueva York, salvando las vidas de los 155 pasajeros y la tripulación. El 15 de enero de 2009, el mundo fue testigo de un extraordinario aterrizaje de emergencia cuando el capitán \"Sully\" Sullenberger desplazó hábilmente el vuelo 1549 de US Airways en el río Hudson, salvando las vidas de los 155 pasajeros y la tripulación. Sus acciones certeras no sólo evitaron una tragedia sino que lo convirtieron en héroe y en inspiración en todo el mundo. Su historia es ahora una gran película del director y productor Clint Eastwood, protagonizada por Tom Hanks, Laura Linney y Aaron Eckhart. La historia de Sully está llena de dedicación, de esperanza y de preparación, revelando las importantes lecciones aprendidas a lo largo de su vida, de su servicio militar, y de su trabajo como piloto de línea aérea. Nos recuerda a todos que, incluso en días de conflicto, la tragedia y la incertidumbre, hay valores por los cuales todavía vale la pena luchar y que se pueden superar los retos de la vida si estamos preparados para ellos.",
+        "tags": [
+            "autobiografía",
+            "aviación",
+            "héroe",
+            "inspiración"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81UUDFG8GPL._SL1500_.jpg",
+        "title": "Viaje Sin Retorno: (El Proyecto Orfeo, Libro 1)",
+        "publish_date": "2024-02-18",
+        "author": "Frank J. Cavill",
+        "resume": "UN ASTEROIDE HA CHOCADO CONTRA LA LUNA Y SUS FRAGMENTOS AMENAZAN CON DESTRUIR LA VIDA TAL Y COMO LA CONOCEMOS. La única esperanza para la humanidad es el Proyecto Orfeo, una iniciativa sin precedentes mediante la cual los gobiernos aliados pretenden perpetuar la humanidad en Kepler-442b, un planeta situado a más de mil años luz de la Tierra. Se construyen dos naves que partirán hacia aquel remoto sistema solar con tripulación especializada para terraformar el planeta y hacerlo habitable. Emily Rhodes, técnica especialista en inteligencias artificiales, viajará en la estación espacial Copérnico para encontrarse con su padre, el director del proyecto que partió en la Galileo cinco años antes. Sin embargo, el viaje estará lleno de peligros que la tripulación de la nave tendrán que afrontar. ¿Podrá Emily reunirse con su padre y comenzar una nueva vida en el otro extremo del universo? ¿Podrá la humanidad tener una segunda oportunidad lejos de la Tierra? ¡Ciencia ficción y aventura que te atraparán! ¡Una saga que no podrás parar de leer!",
+        "tags": [
+            "ciencia ficción",
+            "aventura",
+            "ópera espacial",
+            "Proyecto Orfeo"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/91BJ+y+of6L._SL1500_.jpg",
+        "title": "Libros de Autoayuda: El Camino (Un niño se pierde en un camino y descubre el significado de la vida)",
+        "publish_date": "2024-02-18",
+        "author": "Ivan King",
+        "resume": "Un pequeño niño se pierde en un camino; en la ruta, conoce a tres versiones de quien será él mismo en el futuro y descubre el significado de la vida. ¿Qué lecciones aprenderá? ¿Qué secretos serán revelados? Salta al camino y lo descubrirás… Si tuvieras el poder de regresar y cambiar una de las decisiones que tomaste en tu vida, ¿cuál sería? Este libro realmente te hará pensar; pero más que eso, te hará sentir. El Camino es un llamado a la acción para todas las generaciones, jóvenes y viejas. Desde El Alquimista de Paulo Coelho, ningún libro me ha hecho pensar tanto o ha sido tan inspirador. El Sr. King lo hace de nuevo. ¡Un Libro Excelente!",
+        "tags": [
+            "autoayuda",
+            "motivación",
+            "inspiración",
+            "ficción"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81TLSaixRzL._SL1500_.jpg",
+        "title": "Molly's Game: La historia real de la mujer de 26 años",
+        "publish_date": "2024-02-18",
+        "author": "Molly Bloom",
+        "resume": "Pronto una gran película Apuesta maestra, escrita y dirigida por Aaron Sorkin y protagonizada por Jessica Chastain, Idris Elba, Kevin Costner y Michael Cera, la verdadera historia de la princesa del póker de Hollywood que apostó todo, ganó a lo grande y luego lo perdió todo. Molly Bloom revela cómo construyó uno de los juegos de poker más exclusivos y de grandes apuestas del mundo. Una historia de excesos y peligro, glamur y avaricia. A finales de los años 2000, Molly Bloom, una pequeña joven de veintitantos años originaria de Loveland, Colorado hizo las apuestas más altas en el juego de póker más exclusivo que Hollywood jamás había visto. Ella se convirtió en su amante, su domador de leones, su agente y su oxígeno. Todos querían participar pero pocos fueron invitados a jugar. Cientos de millones de dólares se ganaron y perdieron en su mesa. Este era el juego para aquellos que podían, celebridades, magnates de negocios y millonarios. Molly organizaba sus juegos en suites palaciegas con vistas hermosas y comodidades exquisitas. Viajaba en privado, cenaba en restaurantes exclusivos, se codeaba con los jefes de estudios de Hollywood, era cortejada por hombres atractivos y se enteraba de los mejores chismes del mundo, hasta que todo a su alrededor se derrumbó. Una mirada tras las escenas del juego de Molly, la vida que creó, la vida que perdió y lo que aprendió en el proceso.",
+        "tags": [
+            "autobiografía",
+            "póker",
+            "Hollywood",
+            "exceso",
+            "peligro",
+            "glamur",
+            "avaricia"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/91inG0nbwoL._SL1500_.jpg",
+        "title": "Cuando creíamos en las sirenas",
+        "publish_date": "2024-02-18",
+        "author": "Barbara O'Neal",
+        "resume": "Su hermana lleva quince años muerta. O eso creía. Kit ha pasado los últimos quince años creyendo que su hermana había muerto en un atentado terrorista. Pero todo cambia cuando, una noche, ve a Josie en las noticias de la televisión. La conexión en directo muestra el incendio de un club nocturno en Auckland, Nueva Zelanda, y la mujer que Kit ve es idéntica a su hermana. Más que sorprendida, Kit se siente traicionada y furiosa. Si Josie está viva, ¿por qué ha huido y mentido a su familia durante tantos años? Kit vuela a Nueva Zelanda decidida a encontrar a su hermana, y es allí donde comienza un viaje a través de los recuerdos de su infancia. Si Kit y Josie quieren volver a estar juntas, tendrán que enfrentarse a su pasado y desenterrar los secretos que las separaron. ¿Estarán dispuestas a hacerlo, por doloroso que sea?",
+        "tags": [
+            "drama",
+            "misterio",
+            "familia",
+            "secretos",
+            "reencuentro"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/A1liwdYWepL._SL1500_.jpg",
+        "title": "El Pacto del Agua",
+        "publish_date": "2023-10-24",
+        "author": "Abraham Verghese",
+        "resume": "Una magistral saga familiar ambientada en la India del siglo XX que sigue a una familia con una aflicción peculiar: en cada generación, al menos una persona muere ahogada.",
+        "tags": [
+            "saga familiar",
+            "India del siglo XX",
+            "medicina",
+            "aflicción familiar"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71e90IjTZvL._SL1500_.jpg",
+        "title": "El sueño de una vida: novela contemporánea divertida y emotiva",
+        "publish_date": "YYYY-MM-DD",
+
+
+
+        "author": "Shirin Klaus",
+        "resume": "Jack sueña con dinero y estatus. Sara con sacar adelante el proyecto de su vida. El abuelo solo aspira a vivir sus últimos años rodeado de gente que lo quiera. Cuando Jack regresa al pueblo de sus abuelos porque necesita dinero con urgencia, espera encontrar a un viejo solitario y aburrido al que será fácil engatusar. Pero su abuelo se ha mudado al campo, vive muy bien acompañado y si algo tiene claro es que su nieto no pinta nada ahí. Sara, que ha acogido a Miguel como si fuera su abuelo, intenta ayudar a Jack. Para ella la familia es lo más importante y sería un regalo que abuelo y nieto hiciesen las paces. Pero los sueños de Jack pueden hundir los de Sara, y los sueños del abuelo cambiar la vida de Jack. ¿Quién ganará? Descubre la vida soñada de Jack, Sara y el abuelo en esta historia familiar y cercana con toques de humor y romántica slowburn (romance a fuego lento). Está ambientada en Cieza, Murcia, en el levante español, y es una novela contemporánea actual sobre el regreso al hogar, los secretos de familia y la familia no sanguínea. Una historia cercana que te emocionará y te transportará a una casa rural de ensueño, con toques de novela feelgood.",
+        "tags": [
+            "novela contemporánea",
+            "humor",
+            "romance a fuego lento",
+            "Cieza",
+            "Murcia"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81foRObZA+L._SL1500_.jpg",
+        "title": "Los gatos caen de pie: (Inspector Salazar 06). Novela negra española (Serie del inspector Salazar nº 6)",
+        "publish_date": "YYYY-MM-DD",
+
+
+
+        "author": "M.J. Fernández",
+        "resume": "Salazar deberá enfrentarse a un crimen desconcertante. Han asesinado a una familia completa durante la celebración de un cumpleaños. Todos los Acosta están muertos, excepto el hijo menor, a quien encuentran en su habitación drogado, dormido y con el arma homicida en la mano. Es un crimen brutal, aunque a primera vista parece resuelto, hasta que las evidencias despiertan las sospechas de Salazar de que hay mucho más detrás del aparente parricidio y fratricidio. Los Acosta ocultaban secretos inconfesables, que los convertían en objetivo de gente muy peligrosa… incluso para el propio Salazar.",
+        "tags": [
+            "novela negra",
+            "crimen",
+            "misterio",
+            "serie del inspector Salazar",
+            "española"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81jzooB+mAL._SL1500_.jpg",
+        "title": "Hilos de seda",
+        "publish_date": "YYYY-MM-DD",
+
+
+
+        "author": "Amanda Roberts",
+        "resume": "Cuando era niña, pensé que mi destino era vivir y morir en las orillas del río Xiangjiang, como lo había hecho mi familia durante generaciones. Nunca imaginé que mi vida me llevaría a la Ciudad Prohibida y al tribunal de la última Emperatriz de China. Nacida en medio de la nada, Yaqian, una pequeña niña bordadora de la provincia de Hunan, encuentra su camino hacia la corte imperial, un lugar de intriga, deseo y traición. Desde la cama de un Emperador, el corazón de un Príncipe y el lado derecho de una Emperatriz, Yaqian se abre paso a través de las décadas más turbulentas de la historia de China y es testigo de la caída de la Dinastía Qing.",
+        "tags": [
+            "novela histórica",
+            "China imperial",
+            "intriga"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/719hfuZs1jL._SL1500_.jpg",
+        "title": "El Pastor / The Shepherd",
+        "publish_date": "2023-06-06",
+        "author": "Francesca Ambrogetti, Sergio Rubin",
+        "resume": "El Pastor relata la fascinante historia de vida de Jorge Mario Bergoglio en la Argentina. Y al revelar sus orígenes, reflexiona, de manera realista y perspicaz, lo que está haciendo como Papa y hacia dónde pretende llevar a la Iglesia católica.",
+        "tags": [
+            "biografía",
+            "pontificado",
+            "papa Francisco",
+            "Iglesia católica"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71yDuyj8zOL._SL1500_.jpg",
+        "title": "La Distorsión",
+        "publish_date": "2020-08-03",
+        "author": "Daniel Lázaro Iglesias",
+        "resume": "Una aventura de ciencia ficción cargada de acción en un mundo postapocalíptico lleno de misterios y plagado de criaturas lovecraftianas.",
+        "tags": [
+            "ciencia ficción",
+            "acción",
+            "postapocalíptico",
+            "horror lovecraftiano"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/717+lz31K9L._SL1500_.jpg",
+        "title": "Margareta y la dama oscura",
+        "author": "Jorge García Garrido, Iban Lafont Herrero",
+        "format": "Versión Kindle",
+        "resume": "Esta aventura sería una historia normal de crecimiento y de aprendizaje si no fuera por las bestias que atosigan a Margareta, si no fuera por las consecuencias tan terribles de sus actos. La dama oscura ronda a su alrededor silenciosa, implacable, obrando como solo ella sabe para lograr volver a la normalidad.",
+        "tags": [
+            "aventura",
+            "crecimiento",
+            "drama"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/716Yz0H+AgL._SL1500_.jpg",
+        "title": "Yorhalli y la lágrima negra",
+        "publish_date": "YYYY-MM-DD",
+
+
+
+        "author": "Jonas I. S. Athié",
+        "resume": "En este entrañable y emocionante fantasy, lleno de magia y escenas tan alucinantes que te dejarán soñando despierto, conoceremos a Yorhalli, quien es una therania con habilidades anormales, un eslabón evolutivo para su especie. Por ende, sus allegados tratan de averiguar el porqué de sus extrañas características, mientras intentan reconstruir su mundo que es asediado por seres que van más allá de la comprensión lógica/científica, enfrascándose en una batalla imposible de ganar. Aunque lo que hay dentro de Yorhalli puede ser la salvación de la especie, es más probable que provoque la extinción de esta.",
+        "tags": [
+            "fantasy",
+            "magia",
+            "therania",
+            "batallas"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81rUcnKLUDL._SL1500_.jpg",
+        "title": "Descifrando el Código: Eliminando Hoy las Limitaciones Autoimpuestas (Serie de Libros Inspiradores nº 10)",
+        "publish_date": "YYYY-MM-DD",
+
+
+
+        "author": "R.L. Adams",
+        "resume": "Descubra cómo romper las barreras mentales que impiden alcanzar sus metas personales y profesionales. Este libro ofrece métodos y técnicas para fortalecer su vida, superar la procrastinación, manejar el tiempo de manera efectiva, y enfrentar los miedos que le impiden avanzar hacia el éxito.",
+        "tags": [
+            "autoayuda",
+            "superación personal",
+            "desarrollo personal",
+            "motivación"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71GTayJPYoL._SL1499_.jpg",
+        "title": "MENSAJE DIRECTO",
+        "publish_date": "2024-06-03",
+        "author": "Jose María Lloreda García",
+        "resume": "En este thriller intrigante, José recibe un mensaje en Twitter de Ana Dubois proponiendo una reunión de la pandilla después de treinta años. Sin embargo, José sabe que Ana está muerta, y él mismo es responsable. Los eventos que se desarrollan a partir de este mensaje desencadenan una serie de revelaciones y giros inesperados, donde la verdad oculta sale a la luz con consecuencias mortales.",
+        "tags": [
+            "thriller",
+            "intriga",
+            "suspenso",
+            "crimen"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81dzSJ94BML._SL1500_.jpg",
+        "title": "Lo que el gato se llevó. (Inspector Salazar 05)",
+        "publish_date": "YYYY-MM-DD",
+
+
+
+        "author": "M.J. Fernández",
+        "resume": "En esta quinta entrega de la serie del inspector Salazar, un inexplicable asesinato de una anciana pone a Salazar en una situación difícil: su mejor amigo Gyula es acusado y detenido. Salazar debe usar toda su inteligencia y experiencia para demostrar la inocencia de Gyula, mientras también enfrenta amenazas anónimas relacionadas con un oscuro secreto de su pasado y su hermano. La búsqueda del culpable los llevará a descubrir quién está detrás de las amenazas, poniendo en riesgo sus vidas en el proceso.",
+        "tags": [
+            "novela negra",
+            "intriga",
+            "crimen",
+            "serie del inspector Salazar"
+        ]
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81whp0T4KNL._SL1500_.jpg",
+        "title": "El primer caso de Salazar: Cuento. (Precuela)",
+        "publish_date": "YYYY-MM-DD",
+
+
+
+        "author": "M.J. Fernández",
+        "resume": "En este cuento precuela de la Serie del inspector Salazar, Luisa, una joven dibujante, es asesinada mientras se disponía a coger el autobús para regresar a casa. El comisario Padilla asigna el caso a dos de sus subalternos más jóvenes: el inspector Arteaga y el subinspector Salazar, quien se enfrenta a su primer caso de homicidio. Néstor Salazar debe perfilar su estilo de trabajo siguiendo la guía del astuto comisario Padilla.",
+        "tags": [
+            "novela negra",
+            "precuela",
+            "crimen",
+            "serie del inspector Salazar"
+        ]
     }
 ]
