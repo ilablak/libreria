@@ -1,5 +1,4 @@
 const labelCats = document.querySelectorAll('label')
-console.log(labelCats)
 
 // function fetch base de datos
 async function getJson() {
@@ -23,15 +22,19 @@ function getCategories() {
     return list
 }
 
+function getSelectCategory() {
+    const inputChecked = document.querySelectorAll('input:checked')
+    const categorySelect = inputChecked[0].nextElementSibling.innerText
+    return categorySelect
+}
+
 // funcion filtrar 
 let librosFiltrados = []
-async function filter() {
+async function filter(par) {
 
     const json = await getJson()
     const categories = getCategories()
     // identificar filtro seleccionado
-    const inputChecked = document.querySelectorAll('input:checked')
-    const category = inputChecked[0].nextElementSibling.innerText
 
     // por cada elemento del json, comprobar si el elemento contiene los tags, igual a la categoria seleccionada
     console.log('elemento')
@@ -40,10 +43,10 @@ async function filter() {
     for (const item of json) {
         console.log(i)
         console.log(item.tags)
-        console.log(item.tags.includes(category))
+        console.log(item.tags.includes(par))
         console.log('--------------- ----------------------------')
         i = i + 1
-        if (item.tags.includes(category)) {
+        if (item.tags.includes(par)) {
             console.log(item + ' si ')
             librosFiltrados.push(item)
         }
@@ -54,4 +57,9 @@ async function filter() {
     console.log(librosFiltrados)
 }
 
-filter()
+const inputs = document.querySelectorAll('input')
+console.log(inputs)
+
+for (const item of inputs) {
+    item.addEventListener('click', filter(getSelectCategory()))
+}
