@@ -1,0 +1,16 @@
+codigo: d005-auth
+
+nombre: Encriptar
+
+roles: usuario
+
+nesesidad: se necesita encriptar la contraseña almacenada
+
+razon: No almacenar la contraseña en texto plano por seguridad
+
+aceptacion: que no se pueda ver la contraseña en texto plano
+
+
+            
+
+
