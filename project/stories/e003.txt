@@ -9,7 +9,7 @@ necesidad: crear los contenedores para los componentes.
 razon: estructurar el main.
 
 aceptacion: -crear contenedores flex segun demanda
-            -crear 3 contenedores de cards dentro cada contenedor flex.
+            -crear los contenedores de cards dentro cada contenedor flex.
 
 relacion: E004            
             

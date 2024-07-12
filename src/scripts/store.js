@@ -1,16 +1,5 @@
-const labelCats = document.querySelectorAll('label')
-
-// GETJSON function fetch > json
-async function getJson() {
-    let dataList = []
-    const response = await fetch('../json/libreria.json')
-    const articlesJson = await response.json()
-
-    for (const item of articlesJson) {
-        dataList.push(item)
-    }
-    return dataList
-}
+const booksBD = '../json/libreria.json'
+import { getJson } from "./libs/getJson.js"
 
 // GETSELECTCATEGORY reconoce el label
 // asociado al input  checked y extrae su valor
@@ -23,9 +12,9 @@ function getSelectCategory() {
 // FILTER filtra el json buscando tag seleccionado
 // y guarda las coincidencias en un array  
 let librosFiltrados = []
-async function filter() {
+async function filter(param) {
     librosFiltrados = []
-    const json = await getJson()
+    const json = await getJson(param)
     const filterSelected = getSelectCategory()
 
     let i = 0 // contador de libros en json
@@ -45,7 +34,6 @@ async function filter() {
 
 const inputs = document.querySelectorAll('input')
 for (const item of inputs) {
-    item.addEventListener('click', filter)
+    item.addEventListener('click', function() { filter(booksBD) })
 }
-
-filter()
+filter(booksBD)

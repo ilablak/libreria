@@ -25,7 +25,7 @@ código: E004-Libreria / ALBERTO
 
 código: E005-Libreria / ALBERTO 
 
-código: E006-Libreria / ALBERTO 
+código: E006-Libreria TESTING / ALBERTO 
 
 codigo: D005-Auth / Testing / AITOR y TXEPE y ALBERTO
 
@@ -55,7 +55,9 @@ código: c002-login / TXEPE y AITOR
 
         código: E002-Libreria / ALBERTO                         Time elapsed: 2h
 
-        codigo: G001-Basket / AITOR
+        código: E002-Unit tests / ALBERTO                         Time elapsed: 2h
+
+        codigo: G001-Basket / AITORº
 
 
         
