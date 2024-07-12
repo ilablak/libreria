@@ -11,7 +11,7 @@ razon: poder vender libros.
 aceptacion: -la pagina debe tener un HEADER que muestre el titulo y icono de la cesta.
             -un ASIDE que muestre categorias para filtrar.
             -el filtro por defecto es generale.
-            -en el MAIN se mostrara las cards.
+            -en el MAIN se mostrara las cards (posteriormente).
 
 
 

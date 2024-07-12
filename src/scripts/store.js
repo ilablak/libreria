@@ -1,6 +1,6 @@
 const labelCats = document.querySelectorAll('label')
 
-// function fetch base de datos
+// GETJSON function fetch > json
 async function getJson() {
     let dataList = []
     const response = await fetch('../json/libreria.json')
@@ -12,54 +12,40 @@ async function getJson() {
     return dataList
 }
 
-// funcion obtener categorias
-function getCategories() {
-    let list = []
-    for (const item of labelCats) {
-        list.push(item.innerText)
-
-    }
-    return list
-}
-
+// GETSELECTCATEGORY reconoce el label
+// asociado al input  checked y extrae su valor
 function getSelectCategory() {
     const inputChecked = document.querySelectorAll('input:checked')
     const categorySelect = inputChecked[0].nextElementSibling.innerText
     return categorySelect
 }
 
-// funcion filtrar 
+// FILTER filtra el json buscando tag seleccionado
+// y guarda las coincidencias en un array  
 let librosFiltrados = []
-async function filter(par) {
-
+async function filter() {
+    librosFiltrados = []
     const json = await getJson()
-    const categories = getCategories()
-    // identificar filtro seleccionado
+    const filterSelected = getSelectCategory()
 
-    // por cada elemento del json, comprobar si el elemento contiene los tags, igual a la categoria seleccionada
-    console.log('elemento')
-
-    let i = 0
-    for (const item of json) {
-        console.log(i)
-        console.log(item.tags)
-        console.log(item.tags.includes(par))
-        console.log('--------------- ----------------------------')
-        i = i + 1
-        if (item.tags.includes(par)) {
-            console.log(item + ' si ')
-            librosFiltrados.push(item)
+    let i = 0 // contador de libros en json
+    if (filterSelected == 'general') {
+        librosFiltrados = json
+    } else {
+        for (const item of json) {
+            i = i + 1
+            if (item.tags.includes(filterSelected)) {
+                librosFiltrados.push(item)
+            }
         }
-
-
-
     }
+    console.log(filterSelected)
     console.log(librosFiltrados)
 }
 
 const inputs = document.querySelectorAll('input')
-console.log(inputs)
-
 for (const item of inputs) {
-    item.addEventListener('click', filter(getSelectCategory()))
+    item.addEventListener('click', filter)
 }
+
+filter()

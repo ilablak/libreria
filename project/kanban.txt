@@ -19,10 +19,6 @@ codigo: I001-Refactor /  Refactorizar / 7hrs
 
 código: B001 - Index / TXEPE y MIKEL
 
-código: E001-Libreria / ALBERTO y JUANES
-
-código: E002-Libreria / ALBERTO 
-
 código: E003-Libreria / ALBERTO 
 
 código: E004-Libreria / ALBERTO 
@@ -54,6 +50,10 @@ código: c002-login / TXEPE y AITOR
         código: D002 - auth / AITOR
 
         código: D003 - auth / AITOR
+
+        código: E001-Libreria / ALBERTO y JUANES                Time elapsed: 2h
+
+        código: E002-Libreria / ALBERTO                         Time elapsed: 2h
 
         codigo: G001-Basket / AITOR
 
