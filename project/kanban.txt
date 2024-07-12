@@ -31,11 +31,11 @@ código: E005-Libreria / ALBERTO
 
 código: E006-Libreria / ALBERTO 
 
-codigo: D005-Auth / Testing / AITOR y IMAD
+codigo: D005-Auth / Testing / AITOR y TXEPE y ALBERTO
 
+código: c002-login / TXEPE y AITOR
 
-
-
+ código: H001 Styles CSS Txepe / Mikel 
 
 
 
