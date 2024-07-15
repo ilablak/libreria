@@ -8,11 +8,11 @@ class BandaCard extends HTMLElement {
     set banda(banda) {
         this.shadowRoot.innerHTML = `
 
-                    <img src="${banda.imagen}" alt="${banda.nombre}">
+                    <img src="${banda.image}" alt="${banda.title}">
                 <div>
-                    <h2>${banda.nombre}</h2>
-                    <h3>año: ${banda.año}</p>
-                    <p>Álbum famoso: ${banda.album_famoso}</p>
+                    <h2>${banda.title}</h2>
+                    <h3>año: ${banda.publish_date}</p>
+                    <p>autor: ${banda.author}</p>
                 </div>
 
             <style>
