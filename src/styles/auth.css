@@ -20,7 +20,7 @@ body {
 
 header {
     width: 100%;
-    height: 640px;
+    height: 320px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -161,150 +161,122 @@ header h1 {
 
 
 }
+
 /* Here start the content */
 .content {
-    
     display: block;
     width: 80%;
-    padding: 16px;
-    font-size: x-small;
-    font-family: AbrilFatface;
+    height: 320px;
+    padding: 32px;
+    font-size: larger;
+    font-family: 'AbrilFatface';
     margin-left: auto;
     margin-right: auto;
     text-align: center;
 }
 
+/* Animacion textos */
+.containertw {
+
+    display: inline-block;
+    font-size: 32px;
+    color: #2f4f4f;
+}
+
+.texteffect {
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: solid 0.5rem rgb(48, 48, 48);
+    animation:
+        type-text forwards 2s steps(14, end) infinite,
+        cursor-blink 0.7s ease-in-out;
+}
+
+@keyframes type-text {
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 100%;
+    }
+}
+
+@keyframes cursor-blink {
+    0% {
+        border-color: transparent;
+    }
+
+    100% {
+        border-color: rgb(48, 48, 48);
+    }
+}
+
+
 /* Style the footer */
 .footer-wrap {
-    height: 100%;
-    background-color: #2f4f4f;
+    font-family: 'AbrilFatface';
     font-size: 16px;
     color: beige;
 
+    .col-1,
+    .col-2,
+    .col-3 {
+        background-color: #2f4f4f;
+        /*   color: beige; */
+        float: left;
+        width: 33.3%;
+        padding: 16px 16px 100px 16px;
+    }
+
+    .row::after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
 }
-
-.col-1,
-.col-2,
-.col-3 {
-    float: left;
-    width: 33.3%;
-    padding: 16px;
-}
-
-.row::after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
-
 
 /* Break/Points !important */
 
 @media (max-width: 992px) {
 
-    .gridcontainer {
-        grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: auto;
-    }
-
     header h1 {
         font-size: 48px;
-    }
-
-    .btn-a {
-        display: none;
     }
 
     .topnav {
         padding: 8px 50px;
     }
+
+    .containertw {
+
+
+        font-size: 16px;
+
+    }
 }
-
-
-
 
 @media (max-width: 768px) {
 
-
-    .gridcontainer {
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: auto;
-    }
 
     header h1 {
         font-size: 40px;
     }
 
-    .icons {
-        display: inline-flex;
-    }
+    .footer-wrap {
 
-    #check:checked~.icons #menu-icon {
-        display: none;
-    }
-
-    .icons #close-icon {
-        display: none;
-    }
-
-    #check:checked~.icons #close-icon {
-        display: block;
-    }
-
-
-    .navbar {
-        position: absolute;
-        top: 100%;
-        left: 0;
-        width: 100%;
-        height: 0;
-        background: rgba(0, 0, 0, .1);
-        backdrop-filter: blur(5px);
-        box-shadow: 0 .8px 16px rgba(0, 0, 0, .1);
-        overflow: hidden;
-        transition: .3s ease;
-    }
-
-    #check:checked~.navbar {
-        height: 250px;
-    }
-
-    .navbar a {
-        display: block;
-        font-size: 16px;
-        margin: 24px 0;
-        text-align: center;
-        transform: translateY(-50px);
-        opacity: 0;
-        transition: .3s ease;
-
-    }
-
-    #check:checked~.navbar a {
-        transform: translateY(0);
-        opacity: 1;
-        transition-delay: calc(.15s * var(--i));
-    }
-
-    .col-1,
-    .col-2,
-    .col-3 {
-        width: 100%;
+        .col-1,
+        .col-2,
+        .col-3 {
+            width: 100%;
+        }
     }
 
 }
 
 @media (max-width: 600px) {
-
-    .content {
-        width: 75%;
-    }
-
-    .gridcontainer {
-        grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: auto;
-    }
 
     header h1 {
         font-size: 26px;
