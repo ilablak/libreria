@@ -33,12 +33,13 @@ async function filter(param) {
     arquited(librosFiltrados, 4)
 }
 
-
+// ARQUITED crea contenedores Flex, boxes e integra los componentes
+let arquitedOut = []
 export function arquited(par1, par2) {
-    console.log('dddd')
+    arquitedOut = []
     const mainContainer = document.getElementById('mainContainer')
     mainContainer.innerHTML = ''
-    const containers = Math.ceil(par1.length / par2)
+    const containers = Math.ceil(par1.length / par2) // contenedores necesarios
     let x = 0 // contador de libros no tocar
 
     for (let i = 0; i < containers; i++) {
@@ -48,20 +49,37 @@ export function arquited(par1, par2) {
         newContainer.setAttribute('class', 'flexContainer');
 
         for (let i = par2; i > 0; i--) {
-            // crear boxes dentro del contenedor
+            // crear boxes 
             const newBox = document.createElement('div');
             newBox.setAttribute('id', 'box' + x);
             newBox.setAttribute('class', 'box');
+            // crear componentes
             const newBook = document.createElement('book-card')
+            newBook.setAttribute('id', 'book' + x);
+            // elementos movidos a su contenedor
             newBox.appendChild(newBook)
             newContainer.appendChild(newBox);
             x += 1;
         }
-
         mainContainer.appendChild(newContainer);
     }
+    // pasando a array los componentes creados
+    arquitedOut = mainContainer.querySelectorAll('book-card');
+    console.log(arquitedOut)
+    draw()
+}
 
-    // const out = mainContainer.querySelectorAll('div');
+// DRAW muestra la info de cada book
+function draw() {
+    let cont = 0 // contador de paridad entre los arrays
+    for (const item of librosFiltrados) {
+        arquitedOut[cont].setAttribute('image', item.image);
+        arquitedOut[cont].setAttribute('title', item.title);
+        arquitedOut[cont].setAttribute('publish_date', item.publish_date);
+        arquitedOut[cont].setAttribute('author', item.author);
+        arquitedOut[cont].setAttribute('resume', item.resume);
+        arquitedOut[cont].setAttribute('tags', item.tags.join(', '));        cont += 1
+    }
 }
 
 const inputs = document.querySelectorAll('input')
