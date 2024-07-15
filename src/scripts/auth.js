@@ -14,9 +14,7 @@ setTimeout(() => {
         getJson('../json/users.json').then(users => {
             const user = users.find(user => user.username === username && user.password === password);
             if (user) {
-                alert ('Credenciales correctas')
-
-                //Guardar credenciales en localStorage
+              //Guardar credenciales en localStorage
                 localStorage.setItem('username', username);
                 localStorage.setItem('password', password);
 
