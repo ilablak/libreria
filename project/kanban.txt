@@ -27,8 +27,6 @@ código: E005-Libreria / ALBERTO
 
 código: E006-Libreria TESTING / ALBERTO 
 
-codigo: D005-Auth / Testing / AITOR y TXEPE y ALBERTO
-
 código: c002-login / TXEPE y AITOR
 
  código: H001 Styles CSS Txepe / Mikel 
@@ -57,7 +55,9 @@ código: c002-login / TXEPE y AITOR
 
         código: E002-Unit tests / ALBERTO                         Time elapsed: 2h
 
-        codigo: G001-Basket / AITORº
+        codigo: G001-Basket / AITOR
+
+        codigo: D005-Auth / AITOR
 
 
         

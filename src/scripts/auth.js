@@ -10,13 +10,15 @@ setTimeout(() => {
         const params = new URLSearchParams(window.location.search);
         const username = params.get('username');
         const password = params.get('password');
+        const desplazamiento = 3
 
         getJson('../json/users.json').then(users => {
             const user = users.find(user => user.username === username && user.password === password);
             if (user) {
-              //Guardar credenciales en localStorage
+                //Guardar credenciales en localStorage
+                let passwordEncriptada = encriptar(password, desplazamiento);
                 localStorage.setItem('username', username);
-                localStorage.setItem('password', password);
+                localStorage.setItem('password', passwordEncriptada);
 
                 // Datos correctos, redirigir a la página del blog
                 window.location.href = '../html/store.html';
@@ -50,3 +52,15 @@ if (storedUsername && storedPassword) {
 } else {
     console.log('No hay credenciales guardadas en Local Storage.');
 }
+
+
+// Función para encriptar la contraseña
+function encriptar(password, desplazamiento) {
+    let resultado = '';
+    for (let i = 0; i < password.length; i++) {
+        let char = password.charCodeAt(i);
+        resultado += String.fromCharCode(char + desplazamiento);
+    }
+    return resultado;
+}
+
