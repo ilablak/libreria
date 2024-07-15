@@ -37,11 +37,7 @@ código: c002-login / TXEPE y AITOR
 
 [Revision]  # Historias pendientes de aprobación, con el tiempo dedicado
 
-        codigo: A001 - Creación de archivos  / Mikel 
-
         codigo: A002 - Creación de archivos / Aitor 
-
-        codigo: C001-Login / Imad 
 
         código: D001 - auth / AITOR
 
@@ -63,6 +59,28 @@ código: c002-login / TXEPE y AITOR
         
 
 [Finalizado] # Historias finalizadas
+
+        codigo: a001 - Creación de archivos  
+
+        codigo: a002 - creacion de archivos JSON
+
+        codigo: b001 -index -creacion del html de la pagina index.html
+
+        codigo: c001 -login -creacion del formulario login
+        
+        codigo: c002 -bypass login 
+        
+        codigo: C003 -login Testing
+
+        codigo: d001 -recoleccion de datos para auth.html
+
+        codigo: d002 -validacion y redireccion -auth-
+
+        codigo: d003 -
+
+
+
+
 
 
 
