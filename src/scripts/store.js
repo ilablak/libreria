@@ -58,7 +58,8 @@ export function arquited(par1, par2) {
             newBook.setAttribute('id', 'book' + x);
             // elementos movidos a su contenedor
             newBox.appendChild(newBook)
-            newContainer.appendChild(newBox);
+            newContainer.appendChild(newBox)
+            //
             x += 1;
         }
         mainContainer.appendChild(newContainer);
@@ -73,12 +74,29 @@ export function arquited(par1, par2) {
 function draw() {
     let cont = 0 // contador de paridad entre los arrays
     for (const item of librosFiltrados) {
-        arquitedOut[cont].setAttribute('image', item.image);
-        arquitedOut[cont].setAttribute('title', item.title);
-        arquitedOut[cont].setAttribute('publish_date', item.publish_date);
-        arquitedOut[cont].setAttribute('author', item.author);
-        arquitedOut[cont].setAttribute('resume', item.resume);
-        arquitedOut[cont].setAttribute('tags', item.tags.join(', '));        cont += 1
+        arquitedOut[cont].setAttribute('image', item.image)
+        arquitedOut[cont].setAttribute('title', item.title)
+        arquitedOut[cont].setAttribute('publish_date', item.publish_date)
+        arquitedOut[cont].setAttribute('author', item.author)
+        arquitedOut[cont].setAttribute('resume', item.resume)
+        arquitedOut[cont].setAttribute('tags', item.tags.join(', '))
+        cont += 1
+    }
+    seller()
+}
+
+const soldBooks = []
+function seller() {
+    for (const item of arquitedOut) {
+        const buttonSell = item.shadowRoot.getElementById('sell')
+        buttonSell.addEventListener('click', () => {
+            const book = {
+                title: item.title,
+                author: item.author,
+            }
+            soldBooks.push(book)
+            console.log(soldBooks)
+        })
     }
 }
 

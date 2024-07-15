@@ -62,6 +62,7 @@ export class componente extends HTMLElement {
                 <p><strong>Fecha de publicación:</strong> <span id="publish_date"></span></p>
                 <p><strong>Resumen:</strong> <span id="resume"></span></p>
                 <p><strong>Etiquetas:</strong> <span id="tags"></span></p>
+                 <button id="sell">Comprar</button>
             </div>
         `
 
