@@ -1,10 +1,13 @@
 export class componente extends HTMLElement {
-
     constructor() {
         super()
         const template = document.createElement('template')
         template.innerHTML = `
             <style>
+                * {
+                    font-size:1vw
+                }
+
                 :host {
                     height: 100%;
                     width: 100%;
@@ -35,48 +38,87 @@ export class componente extends HTMLElement {
                     top: 100%;
                     backdrop-filter: blur(6px);
                     display: flex;
+                    flex-direction: column;
                     align-items: center;
                     justify-content: center;
                     text-align: center;
                     padding: 20px;
                 }
 
-                h3 {
+                .info h3 {
                     color: #333;
-                    font-size: 1.5rem;
-                    margin: 0;
+                }
+
+                .info p {
+                    margin: 10px 0;
+                    text-align: left;
+                    padding: 0 20px;
                 }
             </style>
             <div class="book"></div>
             <div class="info">
                 <h3></h3>
+                <p><strong>Autor:</strong> <span id="author"></span></p>
+                <p><strong>Fecha de publicación:</strong> <span id="publish_date"></span></p>
+                <p><strong>Resumen:</strong> <span id="resume"></span></p>
+                <p><strong>Etiquetas:</strong> <span id="tags"></span></p>
             </div>
         `
-        
+
         const root = this.attachShadow({ mode: "open" })
         root.appendChild(document.importNode(template.content, true))
     }
 
+    //  recoger los atributos
+    get image() {
+        return this.getAttribute('image')
+    }
+    get title() {
+        return this.getAttribute('title')
+    }
+    get author() {
+        return this.getAttribute('author')
+    }
+    get publish_date() {
+        return this.getAttribute('publish_date')
+    }
+    get resume() {
+        return this.getAttribute('resume')
+    }
+    get tags() {
+        return this.getAttribute('tags')
+    }
+
+    // insertar los atributos
     set image(value) {
         this.setAttribute('image', value)
         this.shadowRoot.querySelector('.book').style.backgroundImage = `url('${value}')`
     }
-
-    get image() {
-        return this.getAttribute('image')
-    }
-
     set title(value) {
         this.setAttribute('title', value)
         this.shadowRoot.querySelector('h3').textContent = value
     }
-
-    get title() {
-        return this.getAttribute('title')
+    set author(value) {
+        this.setAttribute('author', value)
+        this.shadowRoot.getElementById('author').textContent = value
+    }
+    set publish_date(value) {
+        this.setAttribute('publish_date', value);
+        this.shadowRoot.getElementById('publish_date').textContent = value
+    }
+    set resume(value) {
+        this.setAttribute('resume', value)
+        this.shadowRoot.getElementById('resume').textContent = value
+    }
+    set tags(value) {
+        this.setAttribute('tags', value)
+        this.shadowRoot.getElementById('tags').textContent = value
     }
 
+
+
     static get observedAttributes() {
-        return ['image', 'title']
+        return ['image', 'title', 'author', 'publish_date', 'resume', 'tags']
     }
 
     attributeChangedCallback(name, oldValue, newValue) {
@@ -84,9 +126,18 @@ export class componente extends HTMLElement {
             this.shadowRoot.querySelector('.book').style.backgroundImage = `url('${newValue}')`
         } else if (name === 'title') {
             this.shadowRoot.querySelector('h3').textContent = newValue
+        } else if (name === 'author') {
+            this.shadowRoot.getElementById('author').textContent = newValue
+        } else if (name === 'publish_date') {
+            this.shadowRoot.getElementById('publish_date').textContent = newValue
+        } else if (name === 'resume') {
+            this.shadowRoot.getElementById('resume').textContent = newValue
+        } else if (name === 'tags') {
+            this.shadowRoot.getElementById('tags').textContent = newValue
         }
     }
 }
 
 customElements.define('book-card', componente)
+
 
