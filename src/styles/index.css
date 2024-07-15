@@ -223,8 +223,7 @@ header h1 {
 
 /* Style the footer */
 .footer-wrap {
-    height: 100%;
-    background-color: #2f4f4f;
+
     font-size: 16px;
     color: beige;
     /*     padding: 50px; */
@@ -234,9 +233,10 @@ header h1 {
 .col-1,
 .col-2,
 .col-3 {
+    background-color: #2f4f4f;
     float: left;
     width: 33.3%;
-    padding: 16px;
+    padding: 16px 16px 100px 16px ;
 }
 
 .row::after {
