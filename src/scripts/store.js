@@ -85,6 +85,7 @@ function draw() {
     seller()
 }
 
+// SELLER - añade los libros seleccionados a un array (cesta)
 const soldBooks = []
 function seller() {
     for (const item of arquitedOut) {
@@ -96,6 +97,7 @@ function seller() {
             }
             soldBooks.push(book)
             console.log(soldBooks)
+            localStorage.setItem('cesta', JSON.stringify(soldBooks))
         })
     }
 }
