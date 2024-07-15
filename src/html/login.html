@@ -4,27 +4,84 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
+    <link rel="icon" type="image/x-icon" href="/assets/icons/fav-icon2.png">
     <link rel="stylesheet" href="/src/styles/login.css">
+    <title>Login</title>
+
 </head>
 
 <body>
-    <div class="login-container">
-        <form id="loginForm" action="auth.html" method="GET">
-            <h2>Login</h2>
-            <label for="username">Nombre de usuario:</label>
-            <input type="text" id="username" name="username" required>
-            <label for="password">Contraseña:</label>
-            <input type="password" id="password" name="password" required>
-            <label>
-                <input type="checkbox" id="acceptTerms"> Acepto los <a href="condiciones.html">términos y
-                    condiciones</a>
-            </label>
-            <button type="submit" id="loginButton" disabled>Iniciar Sesión</button>
-            <p id="errorMessage" class="error-message"></p>
-        </form>
+    <div class="topnav">
+
+        <a href="/index.html" class="logo brand"> EENBS</a>
+
+        <input type="checkbox" id="check">
+        <label for="check" class="icons">
+            <div class="menu-icon" id="menu-icon">&#9776;</div>
+            <div class="close-icon" id="close-icon">&#10008;</div>
+
+        </label>
+
+        <nav class="navbar">
+            <a href="#" style="--i:0;">Login</a>
+            <a href="#" style="--i:1;">Equipo</a>
+            <a href="#" style="--i:2;"> &#xf07a; Comprar</a>
+            <a href="#" style="--i:3;">Recien...</a>
+            <a href="#" style="--i:4;">Contacto</a>
+        </nav>
+
     </div>
-<script src="/src/scripts/login.js"></script>
+    <header>
+        <div class="login-container">
+            <form id="loginForm" action="auth.html" method="GET">
+                <h2>Login</h2>
+                <label for="username">Nombre de usuario:</label>
+                <input type="text" id="username" name="username" required>
+                <label for="password">Contraseña:</label>
+                <input type="password" id="password" name="password" required>
+                <label>
+                    <input type="checkbox" id="acceptTerms"> Acepto los <a href="condiciones.html">términos y
+                        condiciones</a>
+                </label>
+                <button type="submit" id="loginButton" disabled>Iniciar Sesión</button>
+                <p id="errorMessage" class="error-message"></p>
+            </form>
+        </div>
+    </header>
+
+    <footer class="footer-wrap">
+        <div class="col-1">
+            <h4>Column</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet pretium urna. Vivamus
+                venenatis
+                velit nec neque ultricies, eget elementum magna tristique. Quisque vehicula, risus eget aliquam
+                placerat, purus
+                leo tincidunt eros, eget luctus quam orci in velit. Praesent scelerisque tortor sed accumsan convallis.
+            </p>
+        </div>
+
+        <div class="col-2">
+            <h4>Column</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet pretium urna. Vivamus
+                venenatis
+                velit nec neque ultricies, eget elementum magna tristique. Quisque vehicula, risus eget aliquam
+                placerat, purus
+                leo tincidunt eros, eget luctus quam orci in velit. Praesent scelerisque tortor sed accumsan convallis.
+            </p>
+        </div>
+        <div class="col-3">
+            <h4>Column</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet pretium urna. Vivamus
+                venenatis
+                velit nec neque ultricies, eget elementum magna tristique. Quisque vehicula, risus eget aliquam
+                placerat, purus
+                leo tincidunt eros, eget luctus quam orci in velit. Praesent scelerisque tortor sed accumsan convallis.
+            </p>
+        </div>
+    </footer>
+
+
+    <script src="/src/scripts/login.js"></script>
 </body>
 
 </html>
