@@ -16,6 +16,7 @@ body {
     width: 100vw;
     height: 100vh;
     background-color: beige;
+
 }
 
 
@@ -54,7 +55,7 @@ header h1 {
     text-align: center;
     color: beige;
     text-shadow: 2px 2px 10px #000000;
-    font-family: AbrilFatface;
+    font-family: 'AbrilFatface';
     font-size: 64px;
     font-weight: bold;
 
@@ -119,6 +120,7 @@ header h1 {
     background-size: contain;
 
 }
+
 .brand:hover {
     background: url('/assets/icons/fav-icon.webp') no-repeat center;
     background-size: contain;
@@ -139,12 +141,14 @@ header h1 {
     color: #ff4500;
 }
 
-.shop-car  {
+.shop-car {
     font-size: 16px;
 }
+
 .shop-car a:hover {
     color: #ff4500;
 }
+
 #check {
     display: none;
 }
@@ -188,6 +192,7 @@ header h1 {
     box-shadow: 2px 2px 10px #000000;
 
 }
+
 /* Grid Container Gallery */
 .gridcontainer {
     display: grid;
@@ -223,27 +228,29 @@ header h1 {
 
 /* Style the footer */
 .footer-wrap {
-
+    font-family: 'AbrilFatface';
     font-size: 16px;
     color: beige;
-    /*     padding: 50px; */
+
+    .col-1,
+    .col-2,
+    .col-3 {
+        background-color: #2f4f4f;
+        /*   color: beige; */
+        float: left;
+        width: 33.3%;
+        padding: 16px 16px 100px 16px;
+    }
+
+    .row::after {
+        content: "";
+        display: table;
+        clear: both;
+    }
 
 }
 
-.col-1,
-.col-2,
-.col-3 {
-    background-color: #2f4f4f;
-    float: left;
-    width: 33.3%;
-    padding: 16px 16px 100px 16px ;
-}
 
-.row::after {
-    content: "";
-    display: table;
-    clear: both;
-}
 
 /* Break/Points !important */
 
@@ -333,10 +340,13 @@ header h1 {
         transition-delay: calc(.15s * var(--i));
     }
 
-    .col-1,
-    .col-2,
-    .col-3 {
-        width: 100%;
+    .footer-wrap {
+
+        .col-1,
+        .col-2,
+        .col-3 {
+            width: 100%;
+        }
     }
 
 }
