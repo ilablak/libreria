@@ -35,43 +35,30 @@ async function filter(param) {
 
 
 export function arquited(par1, par2) {
-    // Obtener el contenedor principal
-    const mainContainer = document.getElementById('mainContainer');
-    mainContainer.innerHTML = ''; // Vaciar el contenido del contenedor principal
+    const mainContainer = document.getElementById('mainContainer')
+    mainContainer.innerHTML = ''
+    const containers = Math.ceil(par1.length / par2)
+    let x = 0 // contador de libros no tocar
 
-    // Calcular el número de contenedores necesarios
-    const containers = Math.ceil(par1.length / par2);
-    let x = 0;
-
-    // Iterar para crear cada contenedor
     for (let i = 0; i < containers; i++) {
-        // Crear un nuevo contenedor
+        // crear un nuevo contenedor
         const newContainer = document.createElement('div');
         newContainer.setAttribute('id', 'flexContainer' + i);
         newContainer.setAttribute('class', 'flexContainer');
 
-        // Contador para elementos dentro de cada contenedor
-
-        // Llenar el contenedor con elementos hasta par2 o hasta que se acaben los elementos
         for (let i = par2; i > 0; i--) {
-            // Crear un nuevo elemento dentro del contenedor
+            // crear boxes dentro del contenedor
             const newBox = document.createElement('div');
             newBox.setAttribute('id', 'box' + x);
             newBox.setAttribute('class', 'box');
-
-            // Añadir el nuevo elemento al contenedor
             newContainer.appendChild(newBox);
-
-            // Incrementar el contador de elementos
             x += 1;
         }
 
-        // Añadir el contenedor creado al contenedor principal
         mainContainer.appendChild(newContainer);
     }
 
-    // Devolver todos los contenedores creados
-    const out = mainContainer.querySelectorAll('div');
+    // const out = mainContainer.querySelectorAll('div');
     console.log('ARQUITED devuelve: ' + out.length);
     console.log(out);
     return out;
