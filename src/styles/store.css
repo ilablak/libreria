@@ -1,91 +1,248 @@
+@import "fonts/Montserrat/Montserrat.css";
+@import "fonts/Abril_Fatface/AbrilFatface.css";
+
+
 * {
-    border: 1px solid black;
-    padding: 0;
-    margin: 0;
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Montserrat;
+    /* border: solid 1px blue; */
 }
 
-:root {
-    --HeaderHeight: 100px;
 
+html {
+    font-size: 1em;
 }
 
 body {
-    margin: 0;
-    padding: 0;
     width: 100vw;
     height: 100vh;
+    background-color: beige;
+/*     display: flex;
+    flex-direction: column; */
+}
 
-    header {
-        height: var(--HeaderHeight);
-        display: flex;
+header {
+    width: 100%;
+    height: 420px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+    background: url(/assets/bg-home-bookstore1.webp) no-repeat center fixed;
+    background-size: cover;
 
-   /*      h1 {} */
-
-        img {
-            width: 3rem;
-            height: 3rem;
-        }
+    .btn-b {
+        position: absolute;
+        border-radius: 3px;
+        background-color: beige;
+        color: #2f4f4f;
+        padding: 8px 16px;
+        text-decoration: none;
+        font-size: 16px;
+        cursor: pointer;
+        -webkit-transition-duration: 0.2s;
+        transition-duration: 0.2s;
     }
 
-    main {
-        height: calc(100% - var(--HeaderHeight));
-        display: flex;
+    .btn-b:hover {
+        box-shadow: 2px 2px 10px #000000;
 
-        aside {
-            width: 300px;
-            height: 100%;
+    }
+
+}
+
+header h1 {
+    padding-top: 100px;
+    text-align: center;
+    color: beige;
+    text-shadow: 2px 2px 10px #000000;
+    font-family: AbrilFatface;
+    font-size: 64px;
+    font-weight: bold;
+
+}
 
 
-            form {
+/* This is the Nav Bar */
+.topnav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 16px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    z-index: 100;
+}
+
+.topnav::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, .1);
+    backdrop-filter: blur(5px);
+    z-index: -1;
+}
+
+.topnav::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background:
+        linear-gradient(90deg, transparent, rgba(255, 255, 255, .4), transparent);
+    transition: .5s;
+}
+
+.topnav:hover::after {
+    left: 100%;
+
+}
+
+.logo {
+    font-family: AbrilFactface;
+    font-size: 32px;
+    color: beige;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.brand {
+    width: 40px;
+    height: 40px;
+    padding-left: 60px;
+    background: url('/assets/icons/fav-icon2.webp') no-repeat center;
+    background-size: contain;
+
+}
+.brand:hover {
+    background: url('/assets/icons/fav-icon.webp') no-repeat center;
+    background-size: contain;
+
+}
+
+.navbar a {
+    font-size: 16px;
+    color: #f5f5dc;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 32px;
+    text-align: center;
+
+}
+
+.navbar a:hover {
+    color: #ff4500;
+}
+
+.shop-car  {
+    font-size: 16px;
+}
+.shop-car a:hover {
+    color: #ff4500;
+}
+#check {
+    display: none;
+}
+
+.icons {
+    position: absolute;
+    right: 10%;
+    font-size: 36px;
+    color: beige;
+    cursor: pointer;
+    display: none;
+
+
+}
+
+
+
+
+.main-store {
+    height: calc(100% - var(--HeaderHeight));
+    display: flex;
+
+    aside {
+        width: 200px;
+        height: 100%;
+
+
+        .aside-categories {
+            width: 100%;
+            /*   height: 100px; */
+            display: flex;
+            flex-direction: column;
+
+            li {
+                position: relative;
                 width: 100%;
-                height: 100px;
+                /*  height: 100px; */
                 display: flex;
-                flex-direction: column;
 
-                div {
-                    position: relative;
+                .aside-label {
                     width: 100%;
-                    height: 100px;
+                    padding: 16px;
+                    text-align: left;
+                    padding-left: 50px;
                     display: flex;
+                    user-select: none;
 
-                    label {
-                        width: 100%;
-                        height: 100px;
-                        border: 1px solid rgb(255, 0, 0);
-                        text-align: center;
-                        user-select: none;
+                    .icons-aside {
+                        width: 25px;
+                        height: 25px;
+                        background: url(../../assets/icons/fav-icon2.webp) no-repeat center;
+                        background-size: cover;
                     }
 
-                    input {
-                        width: 100%;
-                        height: 100%;
-                        appearance: none;
-                        position: absolute;
-
-                        &:checked{
-                            background-color: rgba(137, 43, 226, 0.555);
-                        }
-
-
+                    p {
+                        margin-left: 16px;
                     }
-
                 }
 
+                .aside-input {
+                    border-radius: 3px;
+                    color: #2f4f4f;
+                    width: 100%;
+                    height: 100%;
+                    font-family: 'AbrilFatface';
+                    font-weight: 700;
+                    font-size: 16px;
+                    appearance: none;
+                    position: absolute;
+                    -webkit-transition-duration: 0.2s;
+                    transition-duration: 0.2s;
+
+                    &:checked {
+                        box-shadow: 2px 2px 10px #000000;
+                    }
 
 
-
-
+                }
 
             }
 
 
+
+
+
+
         }
 
-        .contenedor {
-            height: 100%;
-            width: calc(100% - 300px);
-        }
+
     }
 
+    .contenedor {
+        height: 100%;
+        width: calc(100% - 300px);
+    }
 }
