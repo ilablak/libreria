@@ -1,66 +1,68 @@
+export class componente extends HTMLElement {
 
-class BandaCard extends HTMLElement {
     constructor() {
-        super();
-        this.attachShadow({ mode: 'open' });
+        super()
+        const template = document.createElement('template')
+        template.innerHTML =
+            `
+        <div class=book></div>
+        <div class=info></div>
+
+        <style>
+        :host {
+            height: 100%;
+            width:100%;
+            display: flex;
+            justify-content: flex-end;
+            position: relative;
+            overflow: hidden;
+        }
+
+        :host(:hover) .info {
+            transform: translateY(-100%);
+            transition: .5s ease-in;
+        }
+
+        .book {
+            height: 100%;
+            width: 100%;
+            background-color: grey;
+        }
+
+        .info {
+            width: 100%;
+            height: 100%;
+            background-color: rgba(255, 255, 255, 0.318);;
+            transition: 3s ease-out;
+            position: absolute;
+            top: 100%;
+            backdrop-filter: blur(6px);
+        }
+
+        </style>
+        `
+
+
+        const root = this.attachShadow({ mode: "open" })
+        root.appendChild(document.importNode(template.content, true))
     }
 
-    set banda(banda) {
-        this.shadowRoot.innerHTML = `
+    connectedCallback() {
+        // // fetch to array
+        // async function jsonToArr() {
+        //     const response = await fetch('./books.json')
+        //     const json = await response.json()
+        //     let jsonArr = []
 
-                    <img src="${banda.image}" alt="${banda.title}">
-                <div>
-                    <h2>${banda.title}</h2>
-                    <h3>año: ${banda.publish_date}</p>
-                    <p>autor: ${banda.author}</p>
-                </div>
+        //     for (const item of json) {
+        //         jsonArr.push(item)
+        //     }
+        //     console.log(jsonArr)
+        //     return jsonArr
+        // }
 
-            <style>
-
-                img {
-                    margin-top: 20px;
-                    background-color: antiquewhite;
-                    height: 250px;
-                    width: 250px;
-                    border-radius: 10px;
-                }
-                
-                h2 {
-    font-family: Arial, sans-serif;
-    font-size: 1.2rem;
-    color: antiquewhite;
-    margin: 1px;
-}
-
-h3 {
-    font-family: Arial, sans-serif;
-    font-size: 1rem;
-    color: antiquewhite;
-      margin: 5px;
-}
-
-p {
-    font-family: Arial, sans-serif;
-    font-size: 1rem;
-    color: antiquewhite;
-      margin: 5px;
-}
-            </style>
-
-        `;
+        // jsonToArr()
     }
 }
 
-customElements.define('banda-card', BandaCard);
-
-fetch('../json/libreria.json')
-    .then(response => response.json())
-    .then(data => {
-        const container = document.getElementById('contenedor');
-        data.forEach(banda => {
-            const bandaCard = document.createElement('banda-card');
-            bandaCard.banda = banda;
-            container.appendChild(bandaCard);
-        });
-    })
-    .catch(error => console.error('Error al cargar los datos:', error));
+customElements.define('book-card', componente)

@@ -1,7 +1,7 @@
 const booksBD = '../json/libreria.json'
 import { getJson } from "./libs/getJson.js"
+import { componente } from '../components/book.js'
 
-// GETSELECTCATEGORY reconoce el label
 // asociado al input  checked y extrae su valor
 function getSelectCategory() {
     const inputChecked = document.querySelectorAll('input:checked')
@@ -18,7 +18,7 @@ async function filter(param) {
     const filterSelected = getSelectCategory()
 
     let i = 0 // contador de libros en json
-    if (filterSelected == 'general') {
+    if (filterSelected === 'General') {
         librosFiltrados = json
     } else {
         for (const item of json) {
@@ -35,6 +35,7 @@ async function filter(param) {
 
 
 export function arquited(par1, par2) {
+    console.log('dddd')
     const mainContainer = document.getElementById('mainContainer')
     mainContainer.innerHTML = ''
     const containers = Math.ceil(par1.length / par2)
@@ -51,6 +52,8 @@ export function arquited(par1, par2) {
             const newBox = document.createElement('div');
             newBox.setAttribute('id', 'box' + x);
             newBox.setAttribute('class', 'box');
+            const newBook = document.createElement('book-card')
+            newBox.appendChild(newBook)
             newContainer.appendChild(newBox);
             x += 1;
         }
@@ -59,9 +62,6 @@ export function arquited(par1, par2) {
     }
 
     // const out = mainContainer.querySelectorAll('div');
-    console.log('ARQUITED devuelve: ' + out.length);
-    console.log(out);
-    return out;
 }
 
 const inputs = document.querySelectorAll('input')

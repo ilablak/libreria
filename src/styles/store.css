@@ -19,7 +19,7 @@ body {
     width: 100vw;
     height: 100vh;
     background-color: beige;
-/*     display: flex;
+    /*     display: flex;
     flex-direction: column; */
 }
 
@@ -124,6 +124,7 @@ header h1 {
     background-size: contain;
 
 }
+
 .brand:hover {
     background: url('/assets/icons/fav-icon.webp') no-repeat center;
     background-size: contain;
@@ -144,12 +145,14 @@ header h1 {
     color: #ff4500;
 }
 
-.shop-car  {
+.shop-car {
     font-size: 16px;
 }
+
 .shop-car a:hover {
     color: #ff4500;
 }
+
 #check {
     display: none;
 }
@@ -243,6 +246,27 @@ header h1 {
 
     .contenedor {
         height: 100%;
-        width: calc(100% - 300px);
+        width: 100%;
+        border: 1px solid black;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    
+        .flexContainer {
+            width: 100%;
+            aspect-ratio: 10/2;
+            border: 1px solid black;
+            margin-top: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+
+            .box {
+                width: calc(100% / 5);
+                aspect-ratio: 10/15;
+                border: 1px solid rgb(0, 0, 0);
+            }
+        }
+
     }
 }
