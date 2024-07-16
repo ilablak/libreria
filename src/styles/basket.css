@@ -25,7 +25,7 @@ header {
     justify-content: center;
     align-items: center;
     background-color: #333;
-    background: url(/assets/bg-home-bookstore1.webp) no-repeat center fixed;
+    background: url(../../assets/bg-home-bookstore1.webp) no-repeat center fixed;
     background-size: cover;
 
 }
@@ -96,13 +96,13 @@ header h1 {
     width: 40px;
     height: 40px;
     padding-left: 60px;
-    background: url('/assets/icons/fav-icon2.webp') no-repeat center;
+    background: url(../../assets/icons/fav-icon2.webp) no-repeat center;
     background-size: contain;
 
 }
 
 .brand:hover {
-    background: url('/assets/icons/fav-icon.webp') no-repeat center;
+    background: url(../../assets/icons/fav-icon.webp) no-repeat center;
     background-size: contain;
 
 }
