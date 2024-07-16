@@ -5,7 +5,7 @@ export class componente extends HTMLElement {
         template.innerHTML = `
             <style>
                 * {
-                    font-size:1vw
+                    font-size:1vw;
                 }
 
                 :host {
@@ -30,9 +30,9 @@ export class componente extends HTMLElement {
                 }
 
                 .info {
-                    width: 100%;
+                    width: 80%;
                     height: 100%;
-                    background-color: rgba(255, 255, 255, 0.318);
+                    background-color: rgba(255, 255, 255, 0.3);
                     transition: 0.3s ease-out;
                     position: absolute;
                     top: 100%;
@@ -42,28 +42,28 @@ export class componente extends HTMLElement {
                     align-items: center;
                     justify-content: center;
                     text-align: center;
-                    padding: 20px;
+                  /*   padding: 16px; */
                 }
 
-                .info h3 {
-                    color: #333;
+                .info h4 {
+                    color: #2f4f4f;
                 }
 
-                .info p {
-                    margin: 10px 0;
-                    text-align: left;
-                    padding: 0 20px;
+                .info p {    
+                    text-align: center;        
                 }
             </style>
             <div class="book"></div>
             <div class="info">
-                <h3></h3>
+                <h4></h4>
                 <p><strong>Autor:</strong> <span id="author"></span></p>
                 <p><strong>Fecha de publicación:</strong> <span id="publish_date"></span></p>
                 <p><strong>Resumen:</strong> <span id="resume"></span></p>
                 <p><strong>Etiquetas:</strong> <span id="tags"></span></p>
                  <button id="sell">Comprar</button>
             </div>
+
+            
         `
 
         const root = this.attachShadow({ mode: "open" })
@@ -97,7 +97,7 @@ export class componente extends HTMLElement {
     }
     set title(value) {
         this.setAttribute('title', value)
-        this.shadowRoot.querySelector('h3').textContent = value
+        this.shadowRoot.querySelector('h4').textContent = value
     }
     set author(value) {
         this.setAttribute('author', value)
@@ -126,7 +126,7 @@ export class componente extends HTMLElement {
         if (name === 'image') {
             this.shadowRoot.querySelector('.book').style.backgroundImage = `url('${newValue}')`
         } else if (name === 'title') {
-            this.shadowRoot.querySelector('h3').textContent = newValue
+            this.shadowRoot.querySelector('h4').textContent = newValue
         } else if (name === 'author') {
             this.shadowRoot.getElementById('author').textContent = newValue
         } else if (name === 'publish_date') {
