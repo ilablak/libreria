@@ -6,7 +6,7 @@ async function getJson(url) {
 }
 
 setTimeout(() => {
-    if (window.location.pathname.endsWith('../../auth.html')) {
+    if (window.location.pathname.endsWith('auth.html')) {
         const params = new URLSearchParams(window.location.search);
         const username = params.get('username');
         const password = params.get('password');
