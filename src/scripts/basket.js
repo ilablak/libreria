@@ -2,9 +2,10 @@ const sold = JSON.parse(localStorage.getItem('cesta'))
 
 const cesta = document.getElementById('cesta')
 
-let books = []
+let x = 1
 for (const item of sold) {
         const newItem = document.createElement('p')
-        newItem.innerHTML = item.title
+        newItem.innerHTML = x + '. ' + item.title.toUpperCase()
         cesta.appendChild(newItem)
+        x += 1
     }
