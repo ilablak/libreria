@@ -240,6 +240,16 @@ header h1 {
         float: left;
         width: 33.3%;
         padding: 16px 16px 100px 16px;
+
+        img {
+            display: flex;
+            float: left;
+            width: 100px;
+            height: 100px;
+            padding: 4px;
+            background: no-repeat center;
+            background-size: cover;
+        }
     }
 
     .row::after {
